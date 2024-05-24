@@ -22,6 +22,7 @@ jobs:
       
       - name: Find Top GitHub Users
         run: npm run find-top-users
+      - uses: DARKDRAGON-LK/top-github-users-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           GIT_EMAIL: ${{ secrets.EMAIL }}
