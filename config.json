@@ -1,0 +1,6 @@
+{
+  "devMode": "false",
+  "locations":[
+    { "country":  "sri lanka", "geoName": "Sri Lanka", "cities": ["colombo", "kandy", "gampaha", "galle", "jaffna", "matara"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" }
+  ]
+}
