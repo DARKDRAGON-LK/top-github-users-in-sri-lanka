@@ -1,7 +1,7 @@
 name: Top GitHub Users of Sri Lanka
 on:
   schedule:
-    - cron: '0 * * * *' # Run every hour
+    - cron: '30 18 * * *' # Run every hour
     
   workflow_dispatch:
 jobs:
