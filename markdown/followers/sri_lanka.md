@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/5/25 11:21 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/5/25 12:36 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -232,7 +232,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Alphexa Labs </td>
 		<td><a href="https://twitter.com/Mindula2000">Mindula2000</a></td>
 		<td>Matara, Sri Lanka</td>
-		<td>238</td>
+		<td>239</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -848,6 +848,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>58</td>
 		<td>
+			<a href="https://github.com/nisalrenuja">
+				<img src="https://avatars.githubusercontent.com/u/42801983?s=72&u=2c360951a29330d3fd64f78a183e0e62e3864f7c&v=4" width="24" alt="Avatar of nisalrenuja"> nisalrenuja
+			</a><br/>
+			Nisal Renuja Palliyaguru
+		</td>
+		<td>@macrolabslk </td>
+		<td><a href="https://twitter.com/NisalRenuja">NisalRenuja</a></td>
+		<td>Colombo</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td>
 			<a href="https://github.com/GH0STH4CKER">
 				<img src="https://avatars.githubusercontent.com/u/62290930?s=72&u=3ef0fd48dfa8a4231c8d004e9a3b8beff9e28bae&v=4" width="24" alt="Avatar of GH0STH4CKER"> GH0STH4CKER
 			</a><br/>
@@ -859,7 +872,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/Wathsara">
 				<img src="https://avatars.githubusercontent.com/u/31571237?s=72&u=0d4c12bdeb4baf2ea243739a2aef67763fec75d9&v=4" width="24" alt="Avatar of Wathsara"> Wathsara
@@ -872,7 +885,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/Paradox2405">
 				<img src="https://avatars.githubusercontent.com/u/38062205?s=72&u=aafe341871e97d68fedee4b26795e0cf5eed58b9&v=4" width="24" alt="Avatar of Paradox2405"> Paradox2405
@@ -885,7 +898,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/mottretor">
 				<img src="https://avatars.githubusercontent.com/u/22058635?s=72&u=7ac10ecf21382f07a23cfd52c6c0a6c267c2dfd0&v=4" width="24" alt="Avatar of mottretor"> mottretor
@@ -896,19 +909,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/mottretor">mottretor</a></td>
 		<td>Colombo, Sri Lanka.</td>
 		<td>83</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/nisalrenuja">
-				<img src="https://avatars.githubusercontent.com/u/42801983?s=72&u=2c360951a29330d3fd64f78a183e0e62e3864f7c&v=4" width="24" alt="Avatar of nisalrenuja"> nisalrenuja
-			</a><br/>
-			Nisal Renuja Palliyaguru
-		</td>
-		<td>@macrolabslk </td>
-		<td><a href="https://twitter.com/NisalRenuja">NisalRenuja</a></td>
-		<td>Colombo</td>
-		<td>82</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -10495,7 +10495,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>800</td>
 		<td>
 			<a href="https://github.com/IshanNikeshalaNawarathna">
-				<img src="https://avatars.githubusercontent.com/u/126088072?s=72&u=56720ced76f2bcd418828beb9ead3bce1fc29f21&v=4" width="24" alt="Avatar of IshanNikeshalaNawarathna"> IshanNikeshalaNawarathna
+				<img src="https://avatars.githubusercontent.com/u/126088072?s=72&u=b7da54e68c1d06b82839bec018b8e66ee4dca0e8&v=4" width="24" alt="Avatar of IshanNikeshalaNawarathna"> IshanNikeshalaNawarathna
 			</a><br/>
 			Ishan Nikeshala
 		</td>
