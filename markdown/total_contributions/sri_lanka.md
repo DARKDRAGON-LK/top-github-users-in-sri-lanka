@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/5/26 1:25 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/5/26 2:39 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -116,8 +116,8 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>69965</td>
-		<td>72926</td>
+		<td>69980</td>
+		<td>72941</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>@jkcss-a-css-framewo </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
-		<td>15393</td>
-		<td>15704</td>
+		<td>15407</td>
+		<td>15718</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -158,8 +158,8 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>Ijse - Institute Of<br/>Software<br/>Engineering<br/></td>
 		<td><a href="https://twitter.com/Thushal25">Thushal25</a></td>
 		<td>Galle - Sri Lanka</td>
-		<td>5475</td>
-		<td>6095</td>
+		<td>5495</td>
+		<td>6115</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -299,7 +299,7 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>41</td>
-		<td>3774</td>
+		<td>3776</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -761,7 +761,7 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>22</td>
-		<td>1737</td>
+		<td>1738</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -942,8 +942,8 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1473</td>
-		<td>1473</td>
+		<td>1474</td>
+		<td>1474</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1012,8 +1012,8 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>Care Code </td>
 		<td>No Twitter Username</td>
 		<td>Matara</td>
-		<td>1345</td>
-		<td>1363</td>
+		<td>1346</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -2194,6 +2194,20 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 	<tr>
 		<td>150</td>
 		<td>
+			<a href="https://github.com/chaturadilan">
+				<img src="https://avatars.githubusercontent.com/u/390081?s=72&u=623dec394557dcdfb99c65b2ee2ba8b5aa980fbd&v=4" width="24" alt="Avatar of chaturadilan"> chaturadilan
+			</a><br/>
+			Chatura Dilan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Sri Lanka</td>
+		<td>183</td>
+		<td>686</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
 			<a href="https://github.com/prabath1998">
 				<img src="https://avatars.githubusercontent.com/u/64155072?s=72&u=a6d7cbeb89478d19ce496630adf4cefd8a90cb29&v=4" width="24" alt="Avatar of prabath1998"> prabath1998
 			</a><br/>
@@ -2204,20 +2218,6 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>Galle</td>
 		<td>182</td>
 		<td>686</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/chaturadilan">
-				<img src="https://avatars.githubusercontent.com/u/390081?s=72&u=623dec394557dcdfb99c65b2ee2ba8b5aa980fbd&v=4" width="24" alt="Avatar of chaturadilan"> chaturadilan
-			</a><br/>
-			Chatura Dilan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Sri Lanka</td>
-		<td>181</td>
-		<td>684</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -5591,7 +5591,7 @@ There are `994 users`  in Sri Lanka. You need at least `13 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo</td>
 		<td>147</td>
-		<td>177</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>393</td>
