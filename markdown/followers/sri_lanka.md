@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/5/26 6:27 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/5/26 7:19 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -206,7 +206,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galle</td>
-		<td>293</td>
+		<td>294</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -1823,6 +1823,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>133</td>
 		<td>
+			<a href="https://github.com/jefersongodoy">
+				<img src="https://avatars.githubusercontent.com/u/65498351?s=72&u=342753ab7ed180e758f19241fc97a158fdcecbdf&v=4" width="24" alt="Avatar of jefersongodoy"> jefersongodoy
+			</a><br/>
+			Godoy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo/Paraná</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
 			<a href="https://github.com/ldclakmal">
 				<img src="https://avatars.githubusercontent.com/u/9639050?s=72&u=91f051ff5b38a24c75d8ab6861e7cd11d45a85c6&v=4" width="24" alt="Avatar of ldclakmal"> ldclakmal
 			</a><br/>
@@ -1834,7 +1847,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/ishinihathurusinghe">
 				<img src="https://avatars.githubusercontent.com/u/101358580?s=72&u=04808dd8609a1e7deb0342a86d60d8ab8c958232&v=4" width="24" alt="Avatar of ishinihathurusinghe"> ishinihathurusinghe
@@ -1844,19 +1857,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kandy,Sri Lanka</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/jefersongodoy">
-				<img src="https://avatars.githubusercontent.com/u/65498351?s=72&u=342753ab7ed180e758f19241fc97a158fdcecbdf&v=4" width="24" alt="Avatar of jefersongodoy"> jefersongodoy
-			</a><br/>
-			Godoy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo/Paraná</td>
 		<td>54</td>
 	</tr>
 	<tr>
