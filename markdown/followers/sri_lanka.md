@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/5/27 2:38 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/5/27 3:27 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -10234,19 +10234,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>780</td>
 		<td>
-			<a href="https://github.com/ximitti">
-				<img src="https://avatars.githubusercontent.com/u/73370357?s=72&u=3b2615febbaf37571a4e3f60339227da6bdc82c2&v=4" width="24" alt="Avatar of ximitti"> ximitti
-			</a><br/>
-			Alex Schmitt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo, PR</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>781</td>
-		<td>
 			<a href="https://github.com/umayangag">
 				<img src="https://avatars.githubusercontent.com/u/26085432?s=72&u=1898314253f335c0356f43cb60b4e0280138c65a&v=4" width="24" alt="Avatar of umayangag"> umayangag
 			</a><br/>
@@ -10255,6 +10242,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Lanka Software Foundation </td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
+			<a href="https://github.com/ximitti">
+				<img src="https://avatars.githubusercontent.com/u/73370357?s=72&u=3b2615febbaf37571a4e3f60339227da6bdc82c2&v=4" width="24" alt="Avatar of ximitti"> ximitti
+			</a><br/>
+			Alex Schmitt
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo, PR</td>
 		<td>17</td>
 	</tr>
 	<tr>
