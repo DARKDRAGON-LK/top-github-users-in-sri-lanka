@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/5/28 1:20 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/5/28 2:38 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -336,7 +336,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@sdbots </td>
 		<td><a href="https://twitter.com/DamanthaJ">DamanthaJ</a></td>
 		<td>Matara, Sri Lanka</td>
-		<td>167</td>
+		<td>168</td>
 	</tr>
 	<tr>
 		<td>19</td>
