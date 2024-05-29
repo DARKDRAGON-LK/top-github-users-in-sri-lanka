@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/5/29 8:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/5/29 9:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>71182</td>
+		<td>71198</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -349,7 +349,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1641</td>
+		<td>1642</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -3812,19 +3812,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>286</td>
 		<td>
-			<a href="https://github.com/isala404">
-				<img src="https://avatars.githubusercontent.com/u/29277992?s=72&u=3f6ad1879a201bf7813003f8afde177c661127b0&v=4" width="24" alt="Avatar of isala404"> isala404
-			</a><br/>
-			Isala Piyarisi
-		</td>
-		<td>@wso2 </td>
-		<td><a href="https://twitter.com/isala404">isala404</a></td>
-		<td>Galle, Sri Lanka</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
 			<a href="https://github.com/MenathNDGD">
 				<img src="https://avatars.githubusercontent.com/u/166326325?s=72&u=7f08cde7a7136aecb14973563204e4c064fcbcda&v=4" width="24" alt="Avatar of MenathNDGD"> MenathNDGD
 			</a><br/>
@@ -3832,6 +3819,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		</td>
 		<td>Sabaragamuwa University Of Sri<br/>Lanka<br/></td>
 		<td><a href="https://twitter.com/MNadungoda13250">MNadungoda13250</a></td>
+		<td>Galle, Sri Lanka</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
+			<a href="https://github.com/isala404">
+				<img src="https://avatars.githubusercontent.com/u/29277992?s=72&u=3f6ad1879a201bf7813003f8afde177c661127b0&v=4" width="24" alt="Avatar of isala404"> isala404
+			</a><br/>
+			Isala Piyarisi
+		</td>
+		<td>@wso2 </td>
+		<td><a href="https://twitter.com/isala404">isala404</a></td>
 		<td>Galle, Sri Lanka</td>
 		<td>128</td>
 	</tr>
