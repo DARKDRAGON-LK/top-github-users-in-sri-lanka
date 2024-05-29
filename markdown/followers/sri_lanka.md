@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/5/29 4:29 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/5/29 5:24 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -167,7 +167,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
 		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>430</td>
+		<td>431</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -999,7 +999,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Icet - Institute Of<br/>Computer<br/>Engineering<br/>And<br/>Technology<br/></td>
 		<td><a href="https://twitter.com/sharadamarasin2">sharadamarasin2</a></td>
 		<td>Colombo </td>
-		<td>79</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>70</td>
