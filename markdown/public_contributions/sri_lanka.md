@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/5/30 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/5/30 10:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>71623</td>
+		<td>71642</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -349,7 +349,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1668</td>
+		<td>1669</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -4995,6 +4995,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>377</td>
 		<td>
+			<a href="https://github.com/shamodcv">
+				<img src="https://avatars.githubusercontent.com/u/127171683?s=72&u=bff44586b191a704f826112b0fc4d93a569f1d61&v=4" width="24" alt="Avatar of shamodcv"> shamodcv
+			</a><br/>
+			Shamod DIlanka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Galle</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
 			<a href="https://github.com/Ratheshan03">
 				<img src="https://avatars.githubusercontent.com/u/37710130?s=72&u=c3cf62d90d0ead09ac3e61ba68236c4a4434c7a3&v=4" width="24" alt="Avatar of Ratheshan03"> Ratheshan03
 			</a><br/>
@@ -5006,7 +5019,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/hasira09">
 				<img src="https://avatars.githubusercontent.com/u/88621706?s=72&u=78a61868e2032a76a56cab10a8870b78e651e448&v=4" width="24" alt="Avatar of hasira09"> hasira09
@@ -5019,7 +5032,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/VihanPamudya">
 				<img src="https://avatars.githubusercontent.com/u/65854449?s=72&u=af5de91b58137ed356fbd471bc789d09acc3bf46&v=4" width="24" alt="Avatar of VihanPamudya"> VihanPamudya
@@ -5032,7 +5045,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/Amalan-ConStat">
 				<img src="https://avatars.githubusercontent.com/u/8344417?s=72&u=357c5588959e6d561bf3b5c754d50d8215666a27&v=4" width="24" alt="Avatar of Amalan-ConStat"> Amalan-ConStat
@@ -5045,7 +5058,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/sandaresdf">
 				<img src="https://avatars.githubusercontent.com/u/118236245?s=72&u=5e3513a7af34ee0a256990930d7580da33eecbb7&v=4" width="24" alt="Avatar of sandaresdf"> sandaresdf
@@ -5056,19 +5069,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo 7, Sri Lanka</td>
 		<td>71</td>
-	</tr>
-	<tr>
-		<td>382</td>
-		<td>
-			<a href="https://github.com/shamodcv">
-				<img src="https://avatars.githubusercontent.com/u/127171683?s=72&u=bff44586b191a704f826112b0fc4d93a569f1d61&v=4" width="24" alt="Avatar of shamodcv"> shamodcv
-			</a><br/>
-			Shamod DIlanka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Galle</td>
-		<td>70</td>
 	</tr>
 	<tr>
 		<td>383</td>

@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/5/30 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/5/30 10:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -116,8 +116,8 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>71623</td>
-		<td>74538</td>
+		<td>71642</td>
+		<td>74557</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -509,7 +509,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
 		<td>1</td>
-		<td>2214</td>
+		<td>2215</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -844,8 +844,8 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1668</td>
-		<td>1668</td>
+		<td>1669</td>
+		<td>1669</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1265,7 +1265,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/chirangaalwis">chirangaalwis</a></td>
 		<td>Colombo. Sri Lanka</td>
 		<td>24</td>
-		<td>1148</td>
+		<td>1149</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -2567,7 +2567,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/sumedhediss">sumedhediss</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>142</td>
-		<td>611</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -3748,20 +3748,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>261</td>
 		<td>
-			<a href="https://github.com/senthuran16">
-				<img src="https://avatars.githubusercontent.com/u/24828296?s=72&u=0c90eb1ad0ff30a1647b1552304e07f2a5252bd3&v=4" width="24" alt="Avatar of senthuran16"> senthuran16
-			</a><br/>
-			Senthuran Ambalavanar
-		</td>
-		<td>@wso2  </td>
-		<td><a href="https://twitter.com/senthuranA16">senthuranA16</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>182</td>
-		<td>360</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
 			<a href="https://github.com/TharinduDakshina">
 				<img src="https://avatars.githubusercontent.com/u/86708474?s=72&u=862e32a0d09d87a2a486459f9aeb889771f45b3b&v=4" width="24" alt="Avatar of TharinduDakshina"> TharinduDakshina
 			</a><br/>
@@ -3771,6 +3757,20 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Akmeemana,Galle,Sri Lanka</td>
 		<td>300</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a href="https://github.com/senthuran16">
+				<img src="https://avatars.githubusercontent.com/u/24828296?s=72&u=0c90eb1ad0ff30a1647b1552304e07f2a5252bd3&v=4" width="24" alt="Avatar of senthuran16"> senthuran16
+			</a><br/>
+			Senthuran Ambalavanar
+		</td>
+		<td>@wso2  </td>
+		<td><a href="https://twitter.com/senthuranA16">senthuranA16</a></td>
+		<td>Colombo, Sri Lanka</td>
+		<td>182</td>
 		<td>360</td>
 	</tr>
 	<tr>
@@ -7556,6 +7556,20 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>533</td>
 		<td>
+			<a href="https://github.com/shamodcv">
+				<img src="https://avatars.githubusercontent.com/u/127171683?s=72&u=bff44586b191a704f826112b0fc4d93a569f1d61&v=4" width="24" alt="Avatar of shamodcv"> shamodcv
+			</a><br/>
+			Shamod DIlanka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Galle</td>
+		<td>72</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a href="https://github.com/hasira09">
 				<img src="https://avatars.githubusercontent.com/u/88621706?s=72&u=78a61868e2032a76a56cab10a8870b78e651e448&v=4" width="24" alt="Avatar of hasira09"> hasira09
 			</a><br/>
@@ -7568,7 +7582,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/VihanPamudya">
 				<img src="https://avatars.githubusercontent.com/u/65854449?s=72&u=af5de91b58137ed356fbd471bc789d09acc3bf46&v=4" width="24" alt="Avatar of VihanPamudya"> VihanPamudya
@@ -7582,7 +7596,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/Amalan-ConStat">
 				<img src="https://avatars.githubusercontent.com/u/8344417?s=72&u=357c5588959e6d561bf3b5c754d50d8215666a27&v=4" width="24" alt="Avatar of Amalan-ConStat"> Amalan-ConStat
@@ -7596,7 +7610,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/sandaresdf">
 				<img src="https://avatars.githubusercontent.com/u/118236245?s=72&u=5e3513a7af34ee0a256990930d7580da33eecbb7&v=4" width="24" alt="Avatar of sandaresdf"> sandaresdf
@@ -7608,20 +7622,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Colombo 7, Sri Lanka</td>
 		<td>71</td>
 		<td>71</td>
-	</tr>
-	<tr>
-		<td>537</td>
-		<td>
-			<a href="https://github.com/shamodcv">
-				<img src="https://avatars.githubusercontent.com/u/127171683?s=72&u=bff44586b191a704f826112b0fc4d93a569f1d61&v=4" width="24" alt="Avatar of shamodcv"> shamodcv
-			</a><br/>
-			Shamod DIlanka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Galle</td>
-		<td>70</td>
-		<td>70</td>
 	</tr>
 	<tr>
 		<td>538</td>
