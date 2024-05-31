@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/5/31 4:27 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/5/31 5:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>71964</td>
+		<td>71982</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -328,6 +328,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>18</td>
 		<td>
+			<a href="https://github.com/DARKDRAGON-LK">
+				<img src="https://avatars.githubusercontent.com/u/30156182?s=72&u=a0ddf5eb226ce40dc156cf13e19c0b0dd096ec39&v=4" width="24" alt="Avatar of DARKDRAGON-LK"> DARKDRAGON-LK
+			</a><br/>
+			Lawan Chaamindu Jayalath Samarasekara
+		</td>
+		<td>Carecode </td>
+		<td>No Twitter Username</td>
+		<td>Galle, Sri Lanka</td>
+		<td>1701</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
 			<a href="https://github.com/ThisaruGuruge">
 				<img src="https://avatars.githubusercontent.com/u/40016057?s=72&u=22d40f227f4a6dcba20391e7193ee5879ac5685b&v=4" width="24" alt="Avatar of ThisaruGuruge"> ThisaruGuruge
 			</a><br/>
@@ -337,19 +350,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/ThisaruGuruge">ThisaruGuruge</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>1700</td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>
-			<a href="https://github.com/DARKDRAGON-LK">
-				<img src="https://avatars.githubusercontent.com/u/30156182?s=72&u=a0ddf5eb226ce40dc156cf13e19c0b0dd096ec39&v=4" width="24" alt="Avatar of DARKDRAGON-LK"> DARKDRAGON-LK
-			</a><br/>
-			Lawan Chaamindu Jayalath Samarasekara
-		</td>
-		<td>Carecode </td>
-		<td>No Twitter Username</td>
-		<td>Galle, Sri Lanka</td>
-		<td>1698</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -835,6 +835,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>57</td>
 		<td>
+			<a href="https://github.com/Deshan555">
+				<img src="https://avatars.githubusercontent.com/u/74134064?s=72&u=3865bc07c575c184a636b1c1ec58a3a2abf5b67f&v=4" width="24" alt="Avatar of Deshan555"> Deshan555
+			</a><br/>
+			Bloodraven 
+		</td>
+		<td>Sri Lanka Technological Campus<br/>(sltc),<br/>University<br/>Of<br/>Kelaniya<br/>(uok)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Sri Lanka </td>
+		<td>619</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
 			<a href="https://github.com/murshidazher">
 				<img src="https://avatars.githubusercontent.com/u/22551211?s=72&u=00a5761277b3a25ff6d8493d39f8cf27e90bfb54&v=4" width="24" alt="Avatar of murshidazher"> murshidazher
 			</a><br/>
@@ -844,19 +857,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/murshidazher">murshidazher</a></td>
 		<td>Colombo, LK</td>
 		<td>617</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
-			<a href="https://github.com/Deshan555">
-				<img src="https://avatars.githubusercontent.com/u/74134064?s=72&u=3865bc07c575c184a636b1c1ec58a3a2abf5b67f&v=4" width="24" alt="Avatar of Deshan555"> Deshan555
-			</a><br/>
-			Bloodraven 
-		</td>
-		<td>Sri Lanka Technological Campus<br/>(sltc),<br/>University<br/>Of<br/>Kelaniya<br/>(uok)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Sri Lanka </td>
-		<td>615</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -882,7 +882,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@wso2 @ballerinalang  </td>
 		<td><a href="https://twitter.com/anupama_pathira">anupama_pathira</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>602</td>
+		<td>604</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -2988,7 +2988,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo</td>
-		<td>176</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>223</td>
@@ -3864,6 +3864,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/HirunaD">
+				<img src="https://avatars.githubusercontent.com/u/139198764?s=72&u=1c2d55bf07a4188be6a53792880847485af2fbb5&v=4" width="24" alt="Avatar of HirunaD"> HirunaD
+			</a><br/>
+			Hiruna De Silva
+		</td>
+		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
+		<td>No Twitter Username</td>
+		<td>Matara, Sri Lanka</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/DHJayasinghe">
 				<img src="https://avatars.githubusercontent.com/u/26274468?s=72&u=cb5cdc919149f3a38b366d61e363bda8ba6b0c94&v=4" width="24" alt="Avatar of DHJayasinghe"> DHJayasinghe
 			</a><br/>
@@ -3875,7 +3888,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/Birunthaban">
 				<img src="https://avatars.githubusercontent.com/u/87966057?s=72&u=cacde23f19325630c3214d740bc5b59ca497b122&v=4" width="24" alt="Avatar of Birunthaban"> Birunthaban
@@ -3885,19 +3898,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@velaris-csm </td>
 		<td><a href="https://twitter.com/S_Birunthaban">S_Birunthaban</a></td>
 		<td>Colombo</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/HirunaD">
-				<img src="https://avatars.githubusercontent.com/u/139198764?s=72&u=1c2d55bf07a4188be6a53792880847485af2fbb5&v=4" width="24" alt="Avatar of HirunaD"> HirunaD
-			</a><br/>
-			Hiruna De Silva
-		</td>
-		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
-		<td>No Twitter Username</td>
-		<td>Matara, Sri Lanka</td>
 		<td>123</td>
 	</tr>
 	<tr>
