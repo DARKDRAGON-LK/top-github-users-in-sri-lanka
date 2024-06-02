@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/2 8:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/2 9:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>72906</td>
+		<td>72924</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -310,7 +310,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1772</td>
+		<td>1773</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -471,6 +471,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/SharadaShehan">
+				<img src="https://avatars.githubusercontent.com/u/107914899?s=72&u=bc453e7fe8de877b8182218ff521defe45b7f525&v=4" width="24" alt="Avatar of SharadaShehan"> SharadaShehan
+			</a><br/>
+			Sharada Shehan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gampaha, Sri Lanka</td>
+		<td>1058</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/keizer619">
 				<img src="https://avatars.githubusercontent.com/u/2918812?s=72&u=0aff39a53ac52d990f41f7fae3566964a663ac06&v=4" width="24" alt="Avatar of keizer619"> keizer619
 			</a><br/>
@@ -482,7 +495,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>1055</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Bhashinee">
 				<img src="https://avatars.githubusercontent.com/u/11239305?s=72&u=57a739467c00c9b0a26700c2f7f5f98af00123e7&v=4" width="24" alt="Avatar of Bhashinee"> Bhashinee
@@ -493,19 +506,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>1050</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
-			<a href="https://github.com/SharadaShehan">
-				<img src="https://avatars.githubusercontent.com/u/107914899?s=72&u=bc453e7fe8de877b8182218ff521defe45b7f525&v=4" width="24" alt="Avatar of SharadaShehan"> SharadaShehan
-			</a><br/>
-			Sharada Shehan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gampaha, Sri Lanka</td>
-		<td>1046</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1025,7 +1025,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Faculty Of Engineering,universi Of<br/>Ruhuna<br/></td>
 		<td>No Twitter Username</td>
 		<td>Galle</td>
-		<td>556</td>
+		<td>558</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -4059,6 +4059,19 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>305</td>
 		<td>
+			<a href="https://github.com/ChitharaKarunasekera">
+				<img src="https://avatars.githubusercontent.com/u/78892816?s=72&u=ede0c887436cacecc91ea12c79328bea61ad2c5c&v=4" width="24" alt="Avatar of ChitharaKarunasekera"> ChitharaKarunasekera
+			</a><br/>
+			Chithara Karunasekera
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Sri Lanka</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
 			<a href="https://github.com/InukaAsith">
 				<img src="https://avatars.githubusercontent.com/u/70461117?s=72&u=cda187fd3f63478eb8a8fc7042808e84b929123d&v=4" width="24" alt="Avatar of InukaAsith"> InukaAsith
 			</a><br/>
@@ -4070,7 +4083,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/LashenDEV">
 				<img src="https://avatars.githubusercontent.com/u/56374597?s=72&u=7242a914411f9a5c44399a6a7e696d2f2728a10d&v=4" width="24" alt="Avatar of LashenDEV"> LashenDEV
@@ -4083,7 +4096,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/navintc">
 				<img src="https://avatars.githubusercontent.com/u/29550937?s=72&u=81a2927035cb9486691cda7ed597fa83c665b8f5&v=4" width="24" alt="Avatar of navintc"> navintc
@@ -4096,7 +4109,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/CDinuwan">
 				<img src="https://avatars.githubusercontent.com/u/40265280?s=72&u=e8651b391188f819675ead1562bd210993742487&v=4" width="24" alt="Avatar of CDinuwan"> CDinuwan
@@ -4109,7 +4122,7 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/Hasindi">
 				<img src="https://avatars.githubusercontent.com/u/101160373?s=72&u=5bafb9bcf172ba782aabbff43ec0f71fe4fa5823&v=4" width="24" alt="Avatar of Hasindi"> Hasindi
@@ -4120,19 +4133,6 @@ There are `994 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Galle,Sri Lanka</td>
 		<td>111</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/ChitharaKarunasekera">
-				<img src="https://avatars.githubusercontent.com/u/78892816?s=72&u=ede0c887436cacecc91ea12c79328bea61ad2c5c&v=4" width="24" alt="Avatar of ChitharaKarunasekera"> ChitharaKarunasekera
-			</a><br/>
-			Chithara Karunasekera
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Sri Lanka</td>
-		<td>110</td>
 	</tr>
 	<tr>
 		<td>311</td>
