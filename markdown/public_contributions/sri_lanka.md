@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/7 12:41 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/7 1:28 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>74690</td>
+		<td>74711</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -258,7 +258,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>1916</td>
+		<td>1917</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -627,6 +627,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/MaryamZi">
+				<img src="https://avatars.githubusercontent.com/u/8376983?s=72&u=23630a0b492b34ba1519e0f5ce3ff2672e863d36&v=4" width="24" alt="Avatar of MaryamZi"> MaryamZi
+			</a><br/>
+			Maryam Ziyad
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Sri Lanka</td>
+		<td>786</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/NimeshPiyumantha">
 				<img src="https://avatars.githubusercontent.com/u/88945963?s=72&u=861ad690299c67f3906cecd2937d689aa1122985&v=4" width="24" alt="Avatar of NimeshPiyumantha"> NimeshPiyumantha
 			</a><br/>
@@ -636,19 +649,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/NPiyumantha60">NPiyumantha60</a></td>
 		<td>Galle</td>
 		<td>785</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/MaryamZi">
-				<img src="https://avatars.githubusercontent.com/u/8376983?s=72&u=23630a0b492b34ba1519e0f5ce3ff2672e863d36&v=4" width="24" alt="Avatar of MaryamZi"> MaryamZi
-			</a><br/>
-			Maryam Ziyad
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Sri Lanka</td>
-		<td>784</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -1467,7 +1467,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>galle,sri lanka</td>
-		<td>398</td>
+		<td>399</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -3617,19 +3617,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>271</td>
 		<td>
-			<a href="https://github.com/TharinduX">
-				<img src="https://avatars.githubusercontent.com/u/35922615?s=72&u=7048c3484eefc249de7a61943e8ffc7e69424a02&v=4" width="24" alt="Avatar of TharinduX"> TharinduX
-			</a><br/>
-			Tharindu Jayasanka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Matara,Sri Lanka</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>272</td>
-		<td>
 			<a href="https://github.com/Chmx00">
 				<img src="https://avatars.githubusercontent.com/u/98452452?s=72&u=6949ddf83e2b3c27458dfc28fd894ed3daa9191a&v=4" width="24" alt="Avatar of Chmx00"> Chmx00
 			</a><br/>
@@ -3638,6 +3625,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Nsbm Green University <br/>-<br/>Ug<br/><br/></td>
 		<td><a href="https://twitter.com/Chmx_00">Chmx_00</a></td>
 		<td>Homagama, Colombo</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/TharinduX">
+				<img src="https://avatars.githubusercontent.com/u/35922615?s=72&u=7048c3484eefc249de7a61943e8ffc7e69424a02&v=4" width="24" alt="Avatar of TharinduX"> TharinduX
+			</a><br/>
+			Tharindu Jayasanka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Matara,Sri Lanka</td>
 		<td>140</td>
 	</tr>
 	<tr>
