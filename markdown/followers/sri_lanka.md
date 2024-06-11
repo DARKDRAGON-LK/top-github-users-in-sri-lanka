@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/11 7:24 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/11 8:29 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -7557,7 +7557,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>574</td>
 		<td>
 			<a href="https://github.com/Amayuru1999">
-				<img src="https://avatars.githubusercontent.com/u/116435706?s=72&u=b8e3d4273a4c7b3f0f01cc1a1b7718bb8baba011&v=4" width="24" alt="Avatar of Amayuru1999"> Amayuru1999
+				<img src="https://avatars.githubusercontent.com/u/116435706?s=72&u=daa9948bdebdcf49f157780f494b8656a608b03a&v=4" width="24" alt="Avatar of Amayuru1999"> Amayuru1999
 			</a><br/>
 			Amayuru Amarasinghe
 		</td>
