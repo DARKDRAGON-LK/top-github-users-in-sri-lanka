@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/13 1:22 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/13 2:40 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>76810</td>
+		<td>76826</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Ijse - Institute Of<br/>Software<br/>Engineering<br/></td>
 		<td><a href="https://twitter.com/Thushal25">Thushal25</a></td>
 		<td>Galle - Sri Lanka</td>
-		<td>5871</td>
+		<td>5892</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -258,7 +258,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2083</td>
+		<td>2084</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1238,6 +1238,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/kavindumal">
+				<img src="https://avatars.githubusercontent.com/u/89773391?s=72&u=ab039ca76ac94eeea748dc1f1bf3806d076e3f9b&v=4" width="24" alt="Avatar of kavindumal"> kavindumal
+			</a><br/>
+			Kavindu Malshan Jayasinghe
+		</td>
+		<td>Ijse - Institute Of<br/>Software<br/>Engineering<br/></td>
+		<td>No Twitter Username</td>
+		<td>Galle, Sri Lanka</td>
+		<td>471</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/Sachin-Mamoru">
 				<img src="https://avatars.githubusercontent.com/u/59449070?s=72&u=942de6cced8991a93509af38f0443a02b188c372&v=4" width="24" alt="Avatar of Sachin-Mamoru"> Sachin-Mamoru
 			</a><br/>
@@ -1247,19 +1260,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/MamoruSachin">MamoruSachin</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>470</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/kavindumal">
-				<img src="https://avatars.githubusercontent.com/u/89773391?s=72&u=ab039ca76ac94eeea748dc1f1bf3806d076e3f9b&v=4" width="24" alt="Avatar of kavindumal"> kavindumal
-			</a><br/>
-			Kavindu Malshan Jayasinghe
-		</td>
-		<td>Ijse - Institute Of<br/>Software<br/>Engineering<br/></td>
-		<td>No Twitter Username</td>
-		<td>Galle, Sri Lanka</td>
-		<td>468</td>
 	</tr>
 	<tr>
 		<td>90</td>
