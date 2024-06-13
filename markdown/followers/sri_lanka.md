@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/13 8:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/13 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -219,7 +219,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@algoarts </td>
 		<td><a href="https://twitter.com/LahiruUdawatht2">LahiruUdawatht2</a></td>
 		<td>Colombo - Sri Lanka </td>
-		<td>256</td>
+		<td>255</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -739,7 +739,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Iam_S4ch1">Iam_S4ch1</a></td>
 		<td>Kandy, Sri Lanka</td>
-		<td>98</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -4241,19 +4241,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>319</td>
 		<td>
-			<a href="https://github.com/ManZzup">
-				<img src="https://avatars.githubusercontent.com/u/3193991?s=72&u=9500412d5e07a98347fa0cad779a7d8fcd37a262&v=4" width="24" alt="Avatar of ManZzup"> ManZzup
-			</a><br/>
-			Manujith Pallewatte
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
 			<a href="https://github.com/IsuruVihan">
 				<img src="https://avatars.githubusercontent.com/u/65202019?s=72&u=494ad04779cc41df1961a1e67f1ff2858e823e85&v=4" width="24" alt="Avatar of IsuruVihan"> IsuruVihan
 			</a><br/>
@@ -4262,6 +4249,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@bitzquad </td>
 		<td>No Twitter Username</td>
 		<td>Athurugiriya, Colombo</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
+			<a href="https://github.com/ManZzup">
+				<img src="https://avatars.githubusercontent.com/u/3193991?s=72&u=9500412d5e07a98347fa0cad779a7d8fcd37a262&v=4" width="24" alt="Avatar of ManZzup"> ManZzup
+			</a><br/>
+			Manujith Pallewatte
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
 		<td>32</td>
 	</tr>
 	<tr>
