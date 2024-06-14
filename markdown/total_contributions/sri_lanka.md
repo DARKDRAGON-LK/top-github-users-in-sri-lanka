@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/14 8:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/14 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -116,8 +116,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>77840</td>
-		<td>80754</td>
+		<td>77856</td>
+		<td>80770</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -536,8 +536,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2134</td>
-		<td>2134</td>
+		<td>2135</td>
+		<td>2135</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -607,7 +607,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/JeewanthaPethum">JeewanthaPethum</a></td>
 		<td>Galle, Sri Lanka</td>
 		<td>264</td>
-		<td>1961</td>
+		<td>1966</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1825,7 +1825,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/hashan_shalitha">hashan_shalitha</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>34</td>
-		<td>818</td>
+		<td>819</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -2110,6 +2110,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/DishaKD">
+				<img src="https://avatars.githubusercontent.com/u/87950341?s=72&u=9708a00b6d9466ee22b068421b449d3197907ef6&v=4" width="24" alt="Avatar of DishaKD"> DishaKD
+			</a><br/>
+			Dishal Dasanayake
+		</td>
+		<td>Sri Lanka Institute Of<br/>Information<br/>Technology<br/></td>
+		<td><a href="https://twitter.com/DishalKanishka">DishalKanishka</a></td>
+		<td>Colombo</td>
+		<td>574</td>
+		<td>707</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/GH0STH4CKER">
 				<img src="https://avatars.githubusercontent.com/u/62290930?s=72&u=3ef0fd48dfa8a4231c8d004e9a3b8beff9e28bae&v=4" width="24" alt="Avatar of GH0STH4CKER"> GH0STH4CKER
 			</a><br/>
@@ -2120,20 +2134,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Ambalangoda / Galle </td>
 		<td>409</td>
 		<td>703</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/DishaKD">
-				<img src="https://avatars.githubusercontent.com/u/87950341?s=72&u=9708a00b6d9466ee22b068421b449d3197907ef6&v=4" width="24" alt="Avatar of DishaKD"> DishaKD
-			</a><br/>
-			Dishal Dasanayake
-		</td>
-		<td>Sri Lanka Institute Of<br/>Information<br/>Technology<br/></td>
-		<td><a href="https://twitter.com/DishalKanishka">DishalKanishka</a></td>
-		<td>Colombo</td>
-		<td>574</td>
-		<td>699</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -3328,6 +3328,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>231</td>
 		<td>
+			<a href="https://github.com/charindithjaindu">
+				<img src="https://avatars.githubusercontent.com/u/75799963?s=72&u=a1d552e8d357eaaf46bb10ed7cc8c47861689ad6&v=4" width="24" alt="Avatar of charindithjaindu"> charindithjaindu
+			</a><br/>
+			Jaindu Charindith
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/charindith">charindith</a></td>
+		<td>Galle</td>
+		<td>46</td>
+		<td>433</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
 			<a href="https://github.com/navindu-ds">
 				<img src="https://avatars.githubusercontent.com/u/114894532?s=72&u=2abb1f809c72b59dba7487177363a6b73159abb1&v=4" width="24" alt="Avatar of navindu-ds"> navindu-ds
 			</a><br/>
@@ -3338,20 +3352,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Colombo, Sri Lanka</td>
 		<td>290</td>
 		<td>430</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/charindithjaindu">
-				<img src="https://avatars.githubusercontent.com/u/75799963?s=72&u=a1d552e8d357eaaf46bb10ed7cc8c47861689ad6&v=4" width="24" alt="Avatar of charindithjaindu"> charindithjaindu
-			</a><br/>
-			Jaindu Charindith
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/charindith">charindith</a></td>
-		<td>Galle</td>
-		<td>46</td>
-		<td>429</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -6436,6 +6436,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>453</td>
 		<td>
+			<a href="https://github.com/AnushkaDarshana">
+				<img src="https://avatars.githubusercontent.com/u/56576234?s=72&u=2d77b156b3aa1008bac3fe2da2fc8d4b0d8feb38&v=4" width="24" alt="Avatar of AnushkaDarshana"> AnushkaDarshana
+			</a><br/>
+			Anushka Darshana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
+		<td>130</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>454</td>
+		<td>
 			<a href="https://github.com/avishka964">
 				<img src="https://avatars.githubusercontent.com/u/62757898?s=72&u=97232f473704520b3b9a94ac420152547fd58469&v=4" width="24" alt="Avatar of avishka964"> avishka964
 			</a><br/>
@@ -6445,20 +6459,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>122</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>454</td>
-		<td>
-			<a href="https://github.com/AnushkaDarshana">
-				<img src="https://avatars.githubusercontent.com/u/56576234?s=72&u=2d77b156b3aa1008bac3fe2da2fc8d4b0d8feb38&v=4" width="24" alt="Avatar of AnushkaDarshana"> AnushkaDarshana
-			</a><br/>
-			Anushka Darshana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>128</td>
 		<td>128</td>
 	</tr>
 	<tr>

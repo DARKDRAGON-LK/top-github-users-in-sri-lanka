@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/14 8:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/14 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -1550,6 +1550,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>112</td>
 		<td>
+			<a href="https://github.com/Shenith404">
+				<img src="https://avatars.githubusercontent.com/u/139686889?s=72&u=cec6328d5e8e8104e393f2acdd6204917a1ef864&v=4" width="24" alt="Avatar of Shenith404"> Shenith404
+			</a><br/>
+			Shenith Bandara
+		</td>
+		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kandy, Sri Lanka</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
 			<a href="https://github.com/craftznora">
 				<img src="https://avatars.githubusercontent.com/u/89331370?s=72&u=7807db2b5654a3f22e751014e019bea0aa3d71d3&v=4" width="24" alt="Avatar of craftznora"> craftznora
 			</a><br/>
@@ -1561,7 +1574,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/ShalithaJayamal">
 				<img src="https://avatars.githubusercontent.com/u/47962458?s=72&u=36ff0677e9c3749c1aa6419c54bcdec014f820a0&v=4" width="24" alt="Avatar of ShalithaJayamal"> ShalithaJayamal
@@ -1574,7 +1587,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/Rajsuthan">
 				<img src="https://avatars.githubusercontent.com/u/53368803?s=72&u=395253de96c6c97fb8293fcd415a1e056429afe5&v=4" width="24" alt="Avatar of Rajsuthan"> Rajsuthan
@@ -1585,19 +1598,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>60</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/Shenith404">
-				<img src="https://avatars.githubusercontent.com/u/139686889?s=72&u=cec6328d5e8e8104e393f2acdd6204917a1ef864&v=4" width="24" alt="Avatar of Shenith404"> Shenith404
-			</a><br/>
-			Shenith Bandara
-		</td>
-		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kandy, Sri Lanka</td>
-		<td>59</td>
 	</tr>
 	<tr>
 		<td>116</td>
