@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/14 4:28 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/14 5:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -245,7 +245,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>216</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -5736,19 +5736,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>434</td>
 		<td>
-			<a href="https://github.com/lakshitha1629">
-				<img src="https://avatars.githubusercontent.com/u/39919610?s=72&u=b8bc4e476be7aaeff78c2173ddf93d8dd2bc9cd8&v=4" width="24" alt="Avatar of lakshitha1629"> lakshitha1629
-			</a><br/>
-			Lakshitha Perera
-		</td>
-		<td>Directfn </td>
-		<td><a href="https://twitter.com/lakshitha1629">lakshitha1629</a></td>
-		<td>Colombo, SL</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
 			<a href="https://github.com/Sandunjayasekar">
 				<img src="https://avatars.githubusercontent.com/u/73893725?s=72&u=c6ed1e1d5f09c6ef41482bc995feff838e27aa1e&v=4" width="24" alt="Avatar of Sandunjayasekar"> Sandunjayasekar
 			</a><br/>
@@ -5757,6 +5744,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>University Student </td>
 		<td><a href="https://twitter.com/sandun_jm">sandun_jm</a></td>
 		<td>Colombo , Srilanka</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>435</td>
+		<td>
+			<a href="https://github.com/lakshitha1629">
+				<img src="https://avatars.githubusercontent.com/u/39919610?s=72&u=b8bc4e476be7aaeff78c2173ddf93d8dd2bc9cd8&v=4" width="24" alt="Avatar of lakshitha1629"> lakshitha1629
+			</a><br/>
+			Lakshitha Perera
+		</td>
+		<td>Directfn </td>
+		<td><a href="https://twitter.com/lakshitha1629">lakshitha1629</a></td>
+		<td>Colombo, SL</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -7283,19 +7283,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>553</td>
 		<td>
-			<a href="https://github.com/vinodliyanage">
-				<img src="https://avatars.githubusercontent.com/u/54410519?s=72&u=eb34652ab4b8db03a66192e65be669d3b74f3e41&v=4" width="24" alt="Avatar of vinodliyanage"> vinodliyanage
-			</a><br/>
-			Vinod Liyanage
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/VinodSLiyanage">VinodSLiyanage</a></td>
-		<td>Galle, Sri Lanka</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
 			<a href="https://github.com/pasindulakshan">
 				<img src="https://avatars.githubusercontent.com/u/74607482?s=72&u=49d5280aada137565ab4d37c829dbae6e338becd&v=4" width="24" alt="Avatar of pasindulakshan"> pasindulakshan
 			</a><br/>
@@ -7303,6 +7290,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		</td>
 		<td>Grubtech </td>
 		<td><a href="https://twitter.com/PasinduLakshanX">PasinduLakshanX</a></td>
+		<td>Galle, Sri Lanka</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
+			<a href="https://github.com/vinodliyanage">
+				<img src="https://avatars.githubusercontent.com/u/54410519?s=72&u=eb34652ab4b8db03a66192e65be669d3b74f3e41&v=4" width="24" alt="Avatar of vinodliyanage"> vinodliyanage
+			</a><br/>
+			Vinod Liyanage
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/VinodSLiyanage">VinodSLiyanage</a></td>
 		<td>Galle, Sri Lanka</td>
 		<td>22</td>
 	</tr>
