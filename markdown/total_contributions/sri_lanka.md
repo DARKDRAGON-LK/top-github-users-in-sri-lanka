@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/15 4:28 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/15 5:24 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -116,8 +116,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>77970</td>
-		<td>80884</td>
+		<td>78005</td>
+		<td>80919</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -341,7 +341,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo 07</td>
 		<td>132</td>
-		<td>3515</td>
+		<td>3517</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -467,7 +467,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>1076</td>
-		<td>2523</td>
+		<td>2565</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -536,8 +536,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2141</td>
-		<td>2141</td>
+		<td>2143</td>
+		<td>2143</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -690,8 +690,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Ijse-institute Of Software Engineering<br/></td>
 		<td>No Twitter Username</td>
 		<td>Matara,Sri Lanka</td>
-		<td>1828</td>
-		<td>1828</td>
+		<td>1832</td>
+		<td>1832</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -746,8 +746,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Matara, Sri Lanka</td>
-		<td>1807</td>
-		<td>1807</td>
+		<td>1811</td>
+		<td>1811</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -4448,6 +4448,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>311</td>
 		<td>
+			<a href="https://github.com/dsplayerX">
+				<img src="https://avatars.githubusercontent.com/u/100945633?s=72&u=d850c7b398d8e78c544ed6f5f88d6e1d86a9d45e&v=4" width="24" alt="Avatar of dsplayerX"> dsplayerX
+			</a><br/>
+			Dumindu Sameendra
+		</td>
+		<td>@wso2 @ballerina-platform </td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Sri Lanka</td>
+		<td>198</td>
+		<td>268</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a href="https://github.com/Thil4n">
 				<img src="https://avatars.githubusercontent.com/u/43875064?s=72&u=74f53dc4692d2a6f60991ab2c378ccf98cb75a63&v=4" width="24" alt="Avatar of Thil4n"> Thil4n
 			</a><br/>
@@ -4460,7 +4474,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/amila1998">
 				<img src="https://avatars.githubusercontent.com/u/86984516?s=72&u=e67c8162b8ee42fb6dc93cee44dfc20888bcf027&v=4" width="24" alt="Avatar of amila1998"> amila1998
@@ -4474,7 +4488,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/BhanukaUOM">
 				<img src="https://avatars.githubusercontent.com/u/28672239?s=72&v=4" width="24" alt="Avatar of BhanukaUOM"> BhanukaUOM
@@ -4485,20 +4499,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>0</td>
-		<td>266</td>
-	</tr>
-	<tr>
-		<td>314</td>
-		<td>
-			<a href="https://github.com/dsplayerX">
-				<img src="https://avatars.githubusercontent.com/u/100945633?s=72&u=d850c7b398d8e78c544ed6f5f88d6e1d86a9d45e&v=4" width="24" alt="Avatar of dsplayerX"> dsplayerX
-			</a><br/>
-			Dumindu Sameendra
-		</td>
-		<td>@wso2 @ballerina-platform </td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Sri Lanka</td>
-		<td>198</td>
 		<td>266</td>
 	</tr>
 	<tr>
