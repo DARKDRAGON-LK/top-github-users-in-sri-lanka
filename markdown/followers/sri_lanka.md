@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/16 6:30 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/16 7:24 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -1433,6 +1433,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>103</td>
 		<td>
+			<a href="https://github.com/LahiruHarshana">
+				<img src="https://avatars.githubusercontent.com/u/124744833?s=72&u=90c87fb060fb40ee51661ef3ac74539e7acbcdbd&v=4" width="24" alt="Avatar of LahiruHarshana"> LahiruHarshana
+			</a><br/>
+			Lahiru Harshana Jayasinghe
+		</td>
+		<td>Ijse-institute Of Software Engineering<br/></td>
+		<td><a href="https://twitter.com/LahiruHarsh">LahiruHarsh</a></td>
+		<td>Matara,Sri Lanka</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
 			<a href="https://github.com/PubuduWanigasekara">
 				<img src="https://avatars.githubusercontent.com/u/41939687?s=72&u=9a8aac509234243351aff7ed892422b3f73b8d09&v=4" width="24" alt="Avatar of PubuduWanigasekara"> PubuduWanigasekara
 			</a><br/>
@@ -1444,7 +1457,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/ashenwgt">
 				<img src="https://avatars.githubusercontent.com/u/14919989?s=72&u=cef85e67038ddc89b08e74ccd7f64f194e2f6ef1&v=4" width="24" alt="Avatar of ashenwgt"> ashenwgt
@@ -1457,7 +1470,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/sabesansathananthan">
 				<img src="https://avatars.githubusercontent.com/u/36799589?s=72&u=e7dc9f9758a0a1a5f8cce148fe8dc884b5591f36&v=4" width="24" alt="Avatar of sabesansathananthan"> sabesansathananthan
@@ -1470,7 +1483,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/chathurangat">
 				<img src="https://avatars.githubusercontent.com/u/1052136?s=72&v=4" width="24" alt="Avatar of chathurangat"> chathurangat
@@ -1481,19 +1494,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>63</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/LahiruHarshana">
-				<img src="https://avatars.githubusercontent.com/u/124744833?s=72&u=90c87fb060fb40ee51661ef3ac74539e7acbcdbd&v=4" width="24" alt="Avatar of LahiruHarshana"> LahiruHarshana
-			</a><br/>
-			Lahiru Harshana Jayasinghe
-		</td>
-		<td>Ijse-institute Of Software Engineering<br/></td>
-		<td><a href="https://twitter.com/LahiruHarsh">LahiruHarsh</a></td>
-		<td>Matara,Sri Lanka</td>
-		<td>62</td>
 	</tr>
 	<tr>
 		<td>108</td>
