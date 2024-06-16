@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/16 8:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/16 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -1238,6 +1238,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/DulangaDasanayake">
+				<img src="https://avatars.githubusercontent.com/u/103773062?s=72&u=785f6394911eb1795deff71d09adfec4ddc85a10&v=4" width="24" alt="Avatar of DulangaDasanayake"> DulangaDasanayake
+			</a><br/>
+			Dulanga Dasanayake
+		</td>
+		<td>Codeslk </td>
+		<td>No Twitter Username</td>
+		<td>Kandy, Sri Lanka</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/haseeAmarathunga">
 				<img src="https://avatars.githubusercontent.com/u/25411156?s=72&u=db7e8b4ca28401d508badd3e3ed50957f56fedea&v=4" width="24" alt="Avatar of haseeAmarathunga"> haseeAmarathunga
 			</a><br/>
@@ -1249,7 +1262,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/kavindu-sayuranga">
 				<img src="https://avatars.githubusercontent.com/u/101160368?s=72&u=252a7867e91f1fb576f96eaa74aaae26934c5f1c&v=4" width="24" alt="Avatar of kavindu-sayuranga"> kavindu-sayuranga
@@ -1262,7 +1275,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/chamiduu">
 				<img src="https://avatars.githubusercontent.com/u/41909955?s=72&u=eb5e353e14b02b81b300ef5d43370f4e48fd015a&v=4" width="24" alt="Avatar of chamiduu"> chamiduu
@@ -1272,19 +1285,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sri Lanka, Colombo</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/DulangaDasanayake">
-				<img src="https://avatars.githubusercontent.com/u/103773062?s=72&u=785f6394911eb1795deff71d09adfec4ddc85a10&v=4" width="24" alt="Avatar of DulangaDasanayake"> DulangaDasanayake
-			</a><br/>
-			Dulanga Dasanayake
-		</td>
-		<td>Codeslk </td>
-		<td>No Twitter Username</td>
-		<td>Kandy, Sri Lanka</td>
 		<td>68</td>
 	</tr>
 	<tr>
