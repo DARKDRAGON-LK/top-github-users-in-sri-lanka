@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/16 9:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` and `private contributions` by users in Sri Lanka on `2024/6/16 10:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -536,8 +536,8 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2230</td>
-		<td>2230</td>
+		<td>2231</td>
+		<td>2231</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -2138,6 +2138,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/IsuruVithanage">
+				<img src="https://avatars.githubusercontent.com/u/38922397?s=72&u=e23afe9e3ee6d044a8557db2aa4f2ed55be8a2fa&v=4" width="24" alt="Avatar of IsuruVithanage"> IsuruVithanage
+			</a><br/>
+			ISURU VITHANAGE
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/__Isuru__">__Isuru__</a></td>
+		<td>Galle</td>
+		<td>680</td>
+		<td>702</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/abhimax">
 				<img src="https://avatars.githubusercontent.com/u/31475441?s=72&u=9d5ba91d8a8a3f3eacffe76299cd13edf681c0d2&v=4" width="24" alt="Avatar of abhimax"> abhimax
 			</a><br/>
@@ -2148,20 +2162,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Colombo, Sri Lanka</td>
 		<td>444</td>
 		<td>701</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/IsuruVithanage">
-				<img src="https://avatars.githubusercontent.com/u/38922397?s=72&u=e23afe9e3ee6d044a8557db2aa4f2ed55be8a2fa&v=4" width="24" alt="Avatar of IsuruVithanage"> IsuruVithanage
-			</a><br/>
-			ISURU VITHANAGE
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/__Isuru__">__Isuru__</a></td>
-		<td>Galle</td>
-		<td>677</td>
-		<td>699</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -3197,7 +3197,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/nimezzz">nimezzz</a></td>
 		<td>Colombo</td>
 		<td>0</td>
-		<td>484</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>222</td>
@@ -4980,20 +4980,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>349</td>
 		<td>
-			<a href="https://github.com/pasxn">
-				<img src="https://avatars.githubusercontent.com/u/57248346?s=72&u=8fca3052838a91e4b0030ec25d1ea3ec7bad0963&v=4" width="24" alt="Avatar of pasxn"> pasxn
-			</a><br/>
-			Pasan Perera
-		</td>
-		<td>Https://accelr.lk </td>
-		<td><a href="https://twitter.com/pasaannn">pasaannn</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>213</td>
-		<td>230</td>
-	</tr>
-	<tr>
-		<td>350</td>
-		<td>
 			<a href="https://github.com/hhadithya">
 				<img src="https://avatars.githubusercontent.com/u/105522342?s=72&u=86b5bfbbfa8ed03595d4a032da2b83ee85759e9b&v=4" width="24" alt="Avatar of hhadithya"> hhadithya
 			</a><br/>
@@ -5003,6 +4989,20 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
 		<td>56</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/pasxn">
+				<img src="https://avatars.githubusercontent.com/u/57248346?s=72&u=8fca3052838a91e4b0030ec25d1ea3ec7bad0963&v=4" width="24" alt="Avatar of pasxn"> pasxn
+			</a><br/>
+			Pasan Perera
+		</td>
+		<td>Https://accelr.lk </td>
+		<td><a href="https://twitter.com/pasaannn">pasaannn</a></td>
+		<td>Colombo, Sri Lanka</td>
+		<td>213</td>
 		<td>230</td>
 	</tr>
 	<tr>
