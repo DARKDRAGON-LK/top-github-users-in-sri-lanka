@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/17 7:21 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/17 8:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -1342,19 +1342,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/pedroalvesbatista">
-				<img src="https://avatars.githubusercontent.com/u/9865535?s=72&u=f2cb4d3faaf0420e0c07d087c51e79841ef58863&v=4" width="24" alt="Avatar of pedroalvesbatista"> pedroalvesbatista
-			</a><br/>
-			Pedro Alves Batista
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TheBigTale">TheBigTale</a></td>
-		<td>Colombo - PR, Brasil</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
 			<a href="https://github.com/ashan1979">
 				<img src="https://avatars.githubusercontent.com/u/107090752?s=72&u=bb59eff0ded61b4c05b0b6961a5bffa6ad6303db&v=4" width="24" alt="Avatar of ashan1979"> ashan1979
 			</a><br/>
@@ -1366,7 +1353,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/SenuraB">
 				<img src="https://avatars.githubusercontent.com/u/65914568?s=72&u=d6d6ed60d6390eb31a13291ca556f685a8c3960c&v=4" width="24" alt="Avatar of SenuraB"> SenuraB
@@ -1379,7 +1366,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/geethdev">
 				<img src="https://avatars.githubusercontent.com/u/75660243?s=72&u=5737010a8f9f7f385a3b5a88ac2add3b56fd2003&v=4" width="24" alt="Avatar of geethdev"> geethdev
@@ -1392,7 +1379,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/AvishiGan">
 				<img src="https://avatars.githubusercontent.com/u/69346466?s=72&u=50cc6bc7a1bf5547b840df8f343bc0be722706ba&v=4" width="24" alt="Avatar of AvishiGan"> AvishiGan
@@ -1402,6 +1389,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>University Of Colombo School<br/>Of<br/>Computing<br/></td>
 		<td>No Twitter Username</td>
 		<td>Gampaha, Sri Lanka</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/pedroalvesbatista">
+				<img src="https://avatars.githubusercontent.com/u/9865535?s=72&u=f2cb4d3faaf0420e0c07d087c51e79841ef58863&v=4" width="24" alt="Avatar of pedroalvesbatista"> pedroalvesbatista
+			</a><br/>
+			Pedro Alves Batista
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TheBigTale">TheBigTale</a></td>
+		<td>Colombo - PR, Brasil</td>
 		<td>66</td>
 	</tr>
 	<tr>
@@ -11508,19 +11508,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>878</td>
 		<td>
-			<a href="https://github.com/upeksha434">
-				<img src="https://avatars.githubusercontent.com/u/103274277?s=72&u=3449c5ba96938ec389efc176316fb23763e466f7&v=4" width="24" alt="Avatar of upeksha434"> upeksha434
-			</a><br/>
-			Upeksha Jayawickrama
-		</td>
-		<td>Kasuni </td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>879</td>
-		<td>
 			<a href="https://github.com/induwarauthsara">
 				<img src="https://avatars.githubusercontent.com/u/19533567?s=72&u=cdd9c4cd6f2b322145d118b82e2f2e6aa2022896&v=4" width="24" alt="Avatar of induwarauthsara"> induwarauthsara
 			</a><br/>
@@ -11529,6 +11516,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/InduwaraUthsara">InduwaraUthsara</a></td>
 		<td>Colombo, Sri Lanka.</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>879</td>
+		<td>
+			<a href="https://github.com/upeksha434">
+				<img src="https://avatars.githubusercontent.com/u/103274277?s=72&u=3449c5ba96938ec389efc176316fb23763e466f7&v=4" width="24" alt="Avatar of upeksha434"> upeksha434
+			</a><br/>
+			Upeksha Jayawickrama
+		</td>
+		<td>Kasuni </td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -11599,19 +11599,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>885</td>
 		<td>
-			<a href="https://github.com/RidmaPalansuriya">
-				<img src="https://avatars.githubusercontent.com/u/109016403?s=72&u=ee6930712c05701673d7b2255222f22a5d3e1b9a&v=4" width="24" alt="Avatar of RidmaPalansuriya"> RidmaPalansuriya
-			</a><br/>
-			Ridma Palansuriya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RPalansuriya">RPalansuriya</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>886</td>
-		<td>
 			<a href="https://github.com/jdtdjayasingha">
 				<img src="https://avatars.githubusercontent.com/u/153268657?s=72&u=90f1ee6116544e5d794297c771bd412732f25ee0&v=4" width="24" alt="Avatar of jdtdjayasingha"> jdtdjayasingha
 			</a><br/>
@@ -11619,6 +11606,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jdtdjayasingha">jdtdjayasingha</a></td>
+		<td>Colombo, Sri Lanka</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/RidmaPalansuriya">
+				<img src="https://avatars.githubusercontent.com/u/109016403?s=72&u=ee6930712c05701673d7b2255222f22a5d3e1b9a&v=4" width="24" alt="Avatar of RidmaPalansuriya"> RidmaPalansuriya
+			</a><br/>
+			Ridma Palansuriya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RPalansuriya">RPalansuriya</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>15</td>
 	</tr>
