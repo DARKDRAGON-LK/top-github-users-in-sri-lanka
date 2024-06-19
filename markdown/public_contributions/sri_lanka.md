@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/19 12:41 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/19 1:27 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>79176</td>
+		<td>79189</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@jkcss-a-css-framewo </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
-		<td>16641</td>
+		<td>16645</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Ijse - Institute Of<br/>Software<br/>Engineering<br/></td>
 		<td><a href="https://twitter.com/Thushal25">Thushal25</a></td>
 		<td>Galle - Sri Lanka</td>
-		<td>6298</td>
+		<td>6299</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Ijse-institute Of Software Engineering<br/></td>
 		<td><a href="https://twitter.com/LahiruHarsh">LahiruHarsh</a></td>
 		<td>Matara,Sri Lanka</td>
-		<td>6034</td>
+		<td>6055</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -232,7 +232,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2324</td>
+		<td>2325</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -752,7 +752,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/__Isuru__">__Isuru__</a></td>
 		<td>Galle</td>
-		<td>686</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1090,7 +1090,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>University Student </td>
 		<td><a href="https://twitter.com/sandun_jm">sandun_jm</a></td>
 		<td>Colombo , Srilanka</td>
-		<td>537</td>
+		<td>543</td>
 	</tr>
 	<tr>
 		<td>77</td>
