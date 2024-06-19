@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/19 5:25 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/19 6:31 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -4710,7 +4710,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>355</td>
 		<td>
 			<a href="https://github.com/SahanPunchihewa">
-				<img src="https://avatars.githubusercontent.com/u/72688889?s=72&u=cca2d033452708ee391516c4bfa8a0127aaec095&v=4" width="24" alt="Avatar of SahanPunchihewa"> SahanPunchihewa
+				<img src="https://avatars.githubusercontent.com/u/72688889?s=72&u=ff3d46ffdc3b902b3a1dcba0de26d996218b392b&v=4" width="24" alt="Avatar of SahanPunchihewa"> SahanPunchihewa
 			</a><br/>
 			Sahan Punchihewa
 		</td>
@@ -10559,19 +10559,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>805</td>
 		<td>
-			<a href="https://github.com/pasan1227">
-				<img src="https://avatars.githubusercontent.com/u/71424163?s=72&u=c5df1483f209851e565d79b2970030cffe4891a9&v=4" width="24" alt="Avatar of pasan1227"> pasan1227
-			</a><br/>
-			Pasan Ratnayake
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandy, Sri Lanka</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>806</td>
-		<td>
 			<a href="https://github.com/ThejanNim">
 				<img src="https://avatars.githubusercontent.com/u/83247116?s=72&u=d5b106f1a3374c7248f2e1f2b3315b4bd89b9d68&v=4" width="24" alt="Avatar of ThejanNim"> ThejanNim
 			</a><br/>
@@ -10580,6 +10567,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Azend Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/pasan1227">
+				<img src="https://avatars.githubusercontent.com/u/71424163?s=72&u=c5df1483f209851e565d79b2970030cffe4891a9&v=4" width="24" alt="Avatar of pasan1227"> pasan1227
+			</a><br/>
+			Pasan Ratnayake
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandy, Sri Lanka</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -10949,19 +10949,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>835</td>
 		<td>
-			<a href="https://github.com/hirusha12navod">
-				<img src="https://avatars.githubusercontent.com/u/125721468?s=72&u=7a79e52593455ed31105a965068f2b74ebb4e5c6&v=4" width="24" alt="Avatar of hirusha12navod"> hirusha12navod
-			</a><br/>
-			Hirusha Navod
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>galle , srilanka</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>836</td>
-		<td>
 			<a href="https://github.com/Amalan-ConStat">
 				<img src="https://avatars.githubusercontent.com/u/8344417?s=72&u=357c5588959e6d561bf3b5c754d50d8215666a27&v=4" width="24" alt="Avatar of Amalan-ConStat"> Amalan-ConStat
 			</a><br/>
@@ -10970,6 +10957,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Qut </td>
 		<td><a href="https://twitter.com/Amalan_Con_Stat">Amalan_Con_Stat</a></td>
 		<td>Kandy, Sri Lanka and Brisbane, Australia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>836</td>
+		<td>
+			<a href="https://github.com/hirusha12navod">
+				<img src="https://avatars.githubusercontent.com/u/125721468?s=72&u=7a79e52593455ed31105a965068f2b74ebb4e5c6&v=4" width="24" alt="Avatar of hirusha12navod"> hirusha12navod
+			</a><br/>
+			Hirusha Navod
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>galle , srilanka</td>
 		<td>16</td>
 	</tr>
 	<tr>
