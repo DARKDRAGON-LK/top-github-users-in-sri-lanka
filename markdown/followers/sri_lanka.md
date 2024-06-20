@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/20 1:21 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/20 2:39 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -1992,6 +1992,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/raviyasas">
+				<img src="https://avatars.githubusercontent.com/u/10788181?s=72&u=07878f71f291b5957c105675c68c33f5a1c54e56&v=4" width="24" alt="Avatar of raviyasas"> raviyasas
+			</a><br/>
+			Ravi Yasas
+		</td>
+		<td>Emapta </td>
+		<td><a href="https://twitter.com/raviyasas">raviyasas</a></td>
+		<td>Colombo</td>
+		<td>53</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/ManulMax">
 				<img src="https://avatars.githubusercontent.com/u/49731724?s=72&u=22a35440745ce2641056acd4907d556a519617e5&v=4" width="24" alt="Avatar of ManulMax"> ManulMax
 			</a><br/>
@@ -2003,7 +2016,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/AtheeshRathnaweera">
 				<img src="https://avatars.githubusercontent.com/u/38098771?s=72&u=cce8893bdce944ab4679f3484ab3d66d93a08f3c&v=4" width="24" alt="Avatar of AtheeshRathnaweera"> AtheeshRathnaweera
@@ -2016,7 +2029,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/samithawijesekara">
 				<img src="https://avatars.githubusercontent.com/u/52972807?s=72&u=9769326361573abd5d9adda6ec94bca51defbf99&v=4" width="24" alt="Avatar of samithawijesekara"> samithawijesekara
@@ -2029,7 +2042,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/ChamodiKu">
 				<img src="https://avatars.githubusercontent.com/u/43163445?s=72&u=ed6db8940f56e0628ee6fb9894a3ef6dbb1330c1&v=4" width="24" alt="Avatar of ChamodiKu"> ChamodiKu
@@ -2039,19 +2052,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>University Of Colombo School<br/>Of<br/>Computing<br/></td>
 		<td><a href="https://twitter.com/ChamodiKulathu1">ChamodiKulathu1</a></td>
 		<td>Matara , Sri Lanka</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>150</td>
-		<td>
-			<a href="https://github.com/raviyasas">
-				<img src="https://avatars.githubusercontent.com/u/10788181?s=72&u=07878f71f291b5957c105675c68c33f5a1c54e56&v=4" width="24" alt="Avatar of raviyasas"> raviyasas
-			</a><br/>
-			Ravi Yasas
-		</td>
-		<td>Emapta </td>
-		<td><a href="https://twitter.com/raviyasas">raviyasas</a></td>
-		<td>Colombo</td>
 		<td>52</td>
 	</tr>
 	<tr>
