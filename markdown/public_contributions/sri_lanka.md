@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/20 6:31 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/20 7:21 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>79630</td>
+		<td>79645</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -232,7 +232,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2353</td>
+		<td>2354</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1051,7 +1051,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
 		<td>No Twitter Username</td>
 		<td>Pitakotte, Colombo, Sri lanka</td>
-		<td>556</td>
+		<td>557</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1545,7 +1545,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
-		<td>398</td>
+		<td>399</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1844,7 +1844,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>99x Technology </td>
 		<td><a href="https://twitter.com/chika_tweets">chika_tweets</a></td>
 		<td>Colombo, Srilanka</td>
-		<td>322</td>
+		<td>324</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -1974,7 +1974,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AsiriChathurika">AsiriChathurika</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>289</td>
+		<td>292</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -4943,6 +4943,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>373</td>
 		<td>
+			<a href="https://github.com/sacheex">
+				<img src="https://avatars.githubusercontent.com/u/110117965?s=72&u=1decb418419c1f2357229c9c9c239a937c4a8e28&v=4" width="24" alt="Avatar of sacheex"> sacheex
+			</a><br/>
+			Sachith
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandy, Sri Lanka</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
 			<a href="https://github.com/DhFernando">
 				<img src="https://avatars.githubusercontent.com/u/39521923?s=72&u=b26abe9c72582e5f3303087b048c8d3f9909a837&v=4" width="24" alt="Avatar of DhFernando"> DhFernando
 			</a><br/>
@@ -4954,7 +4967,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/SachPrecious">
 				<img src="https://avatars.githubusercontent.com/u/61633493?s=72&u=a60097993cfb9be27cab276a243c3c18ec593fa5&v=4" width="24" alt="Avatar of SachPrecious"> SachPrecious
@@ -4967,7 +4980,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/IsuruWickramasinghe">
 				<img src="https://avatars.githubusercontent.com/u/92825254?s=72&u=0990e49809cb010995c08ac69107afc4879a64cc&v=4" width="24" alt="Avatar of IsuruWickramasinghe"> IsuruWickramasinghe
@@ -4978,19 +4991,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Kandy Sri Lanka</td>
 		<td>77</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/sacheex">
-				<img src="https://avatars.githubusercontent.com/u/110117965?s=72&u=1decb418419c1f2357229c9c9c239a937c4a8e28&v=4" width="24" alt="Avatar of sacheex"> sacheex
-			</a><br/>
-			Sachith
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandy, Sri Lanka</td>
-		<td>76</td>
 	</tr>
 	<tr>
 		<td>377</td>
