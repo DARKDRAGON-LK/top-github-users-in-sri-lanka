@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/22 10:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/22 11:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -965,19 +965,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/pankajan05">
-				<img src="https://avatars.githubusercontent.com/u/37388848?s=72&u=d75a5781b1b413768b1c95c5f8f26de4dcfa98fa&v=4" width="24" alt="Avatar of pankajan05"> pankajan05
-			</a><br/>
-			Pankajan Satkunam
-		</td>
-		<td>Virtusa </td>
-		<td>No Twitter Username</td>
-		<td>Colombo, Srilanka.</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
 			<a href="https://github.com/DulangaDasanayake">
 				<img src="https://avatars.githubusercontent.com/u/103773062?s=72&u=785f6394911eb1795deff71d09adfec4ddc85a10&v=4" width="24" alt="Avatar of DulangaDasanayake"> DulangaDasanayake
 			</a><br/>
@@ -986,6 +973,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Codeslk </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
+			<a href="https://github.com/pankajan05">
+				<img src="https://avatars.githubusercontent.com/u/37388848?s=72&u=d75a5781b1b413768b1c95c5f8f26de4dcfa98fa&v=4" width="24" alt="Avatar of pankajan05"> pankajan05
+			</a><br/>
+			Pankajan Satkunam
+		</td>
+		<td>Virtusa </td>
+		<td>No Twitter Username</td>
+		<td>Colombo, Srilanka.</td>
 		<td>80</td>
 	</tr>
 	<tr>
