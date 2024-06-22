@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/22 7:22 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/22 8:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -180,7 +180,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@sef-global @acf-sack @greatstudioslk @yoshitharathnayake2<br/>@ie-community-develo<br/>@care-x<br/>@dine-ease<br/></td>
 		<td><a href="https://twitter.com/Yoshitha_R">Yoshitha_R</a></td>
 		<td>Kandy, Sri Lanka</td>
-		<td>381</td>
+		<td>380</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -5346,19 +5346,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>404</td>
 		<td>
-			<a href="https://github.com/adhishagc">
-				<img src="https://avatars.githubusercontent.com/u/11947719?s=72&u=f6812219946415f13b525e6ca908161692734d04&v=4" width="24" alt="Avatar of adhishagc"> adhishagc
-			</a><br/>
-			Adhisha Gammanpila
-		</td>
-		<td>@surfedge @99xt-incubator  </td>
-		<td><a href="https://twitter.com/adhishagc">adhishagc</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
 			<a href="https://github.com/tharindugithu">
 				<img src="https://avatars.githubusercontent.com/u/91211707?s=72&u=079833e6b3d1a81e968b6808c31c055f2a640d81&v=4" width="24" alt="Avatar of tharindugithu"> tharindugithu
 			</a><br/>
@@ -5367,6 +5354,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sltc </td>
 		<td><a href="https://twitter.com/TMandusanka">TMandusanka</a></td>
 		<td>Matara,Sri lanka</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
+			<a href="https://github.com/adhishagc">
+				<img src="https://avatars.githubusercontent.com/u/11947719?s=72&u=f6812219946415f13b525e6ca908161692734d04&v=4" width="24" alt="Avatar of adhishagc"> adhishagc
+			</a><br/>
+			Adhisha Gammanpila
+		</td>
+		<td>@surfedge @99xt-incubator  </td>
+		<td><a href="https://twitter.com/adhishagc">adhishagc</a></td>
+		<td>Colombo, Sri Lanka</td>
 		<td>28</td>
 	</tr>
 	<tr>
