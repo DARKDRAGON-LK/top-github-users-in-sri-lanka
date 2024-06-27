@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/27 12:40 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/27 1:26 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -180,7 +180,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@sef-global @acf-sack @greatstudioslk @yoshitharathnayake2<br/>@ie-community-develo<br/>@care-x<br/>@dine-ease<br/></td>
 		<td><a href="https://twitter.com/Yoshitha_R">Yoshitha_R</a></td>
 		<td>Kandy, Sri Lanka</td>
-		<td>379</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -362,7 +362,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/inukaasith7">inukaasith7</a></td>
 		<td>Matara, Sri Lanka</td>
-		<td>168</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -10676,19 +10676,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>814</td>
 		<td>
-			<a href="https://github.com/jaymaxz">
-				<img src="https://avatars.githubusercontent.com/u/23566097?s=72&u=93f9a3ba59497f788a7b456f2a5961a3ec37b04e&v=4" width="24" alt="Avatar of jaymaxz"> jaymaxz
-			</a><br/>
-			Jagath Wijesinghe
-		</td>
-		<td>Pagero </td>
-		<td><a href="https://twitter.com/Jagathmax2">Jagathmax2</a></td>
-		<td>Colombo</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>815</td>
-		<td>
 			<a href="https://github.com/ashen007">
 				<img src="https://avatars.githubusercontent.com/u/48565752?s=72&u=a9df944d72f54089b8551162c640d61c8c82776b&v=4" width="24" alt="Avatar of ashen007"> ashen007
 			</a><br/>
@@ -10697,6 +10684,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sabaragamuwa University Of Sri<br/>Lanka<br/></td>
 		<td>No Twitter Username</td>
 		<td>gampaha</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>815</td>
+		<td>
+			<a href="https://github.com/jaymaxz">
+				<img src="https://avatars.githubusercontent.com/u/23566097?s=72&u=93f9a3ba59497f788a7b456f2a5961a3ec37b04e&v=4" width="24" alt="Avatar of jaymaxz"> jaymaxz
+			</a><br/>
+			Jagath Wijesinghe
+		</td>
+		<td>Pagero </td>
+		<td><a href="https://twitter.com/Jagathmax2">Jagathmax2</a></td>
+		<td>Colombo</td>
 		<td>16</td>
 	</tr>
 	<tr>
