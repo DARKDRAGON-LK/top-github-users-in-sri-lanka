@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/27 1:26 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/27 2:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -3591,19 +3591,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>269</td>
 		<td>
-			<a href="https://github.com/Disura-Randunu">
-				<img src="https://avatars.githubusercontent.com/u/37591051?s=72&v=4" width="24" alt="Avatar of Disura-Randunu"> Disura-Randunu
-			</a><br/>
-			Disura Randunu
-		</td>
-		<td>Arimac Digital, Sri Lanka<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
 			<a href="https://github.com/Biruntha">
 				<img src="https://avatars.githubusercontent.com/u/6188529?s=72&u=0045a2be043b291ae970a986af93604a74a74c9e&v=4" width="24" alt="Avatar of Biruntha"> Biruntha
 			</a><br/>
@@ -3612,6 +3599,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Wso2 </td>
 		<td>No Twitter Username</td>
 		<td> Jaffna, Srilanka.</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/Disura-Randunu">
+				<img src="https://avatars.githubusercontent.com/u/37591051?s=72&v=4" width="24" alt="Avatar of Disura-Randunu"> Disura-Randunu
+			</a><br/>
+			Disura Randunu
+		</td>
+		<td>Arimac Digital, Sri Lanka<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
 		<td>38</td>
 	</tr>
 	<tr>
