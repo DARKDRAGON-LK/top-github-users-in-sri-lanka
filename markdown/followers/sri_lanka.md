@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/27 4:29 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/27 5:24 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -2642,6 +2642,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>196</td>
 		<td>
+			<a href="https://github.com/DamianRavinduPeiris">
+				<img src="https://avatars.githubusercontent.com/u/115478137?s=72&u=12d3b26cbe195754bdd3baed8eb8077c3b3f4821&v=4" width="24" alt="Avatar of DamianRavinduPeiris"> DamianRavinduPeiris
+			</a><br/>
+			Damian Peiris.
+		</td>
+		<td>Ijse | Wiley </td>
+		<td>No Twitter Username</td>
+		<td>Colombo,Sri Lanka.</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
 			<a href="https://github.com/Hirunagrad">
 				<img src="https://avatars.githubusercontent.com/u/64424930?s=72&u=816027b07d6ca569a9c9b4425954ae7e7897acd9&v=4" width="24" alt="Avatar of Hirunagrad"> Hirunagrad
 			</a><br/>
@@ -2653,7 +2666,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/HasinduEshan">
 				<img src="https://avatars.githubusercontent.com/u/144313358?s=72&u=b722cd8658d522cc7f6dc57777e09b8348d46d2b&v=4" width="24" alt="Avatar of HasinduEshan"> HasinduEshan
@@ -2666,7 +2679,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/K4VI12">
 				<img src="https://avatars.githubusercontent.com/u/127814865?s=72&u=20c7656d7ffcdf9f7468f27d368ff661de83b3fe&v=4" width="24" alt="Avatar of K4VI12"> K4VI12
@@ -2679,7 +2692,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/v15a1">
 				<img src="https://avatars.githubusercontent.com/u/46480892?s=72&u=386651c60891e0f74331433ada07931a4be6c906&v=4" width="24" alt="Avatar of v15a1"> v15a1
@@ -2692,7 +2705,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/DininduGunathilaka">
 				<img src="https://avatars.githubusercontent.com/u/73194227?s=72&u=b57a544bf280ddd6699b7516fd62c6ca3241d644&v=4" width="24" alt="Avatar of DininduGunathilaka"> DininduGunathilaka
@@ -2705,7 +2718,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/kasuncfdo">
 				<img src="https://avatars.githubusercontent.com/u/84648368?s=72&u=920ed630b0e7e9a546437e77dbf8d85a9ff551c7&v=4" width="24" alt="Avatar of kasuncfdo"> kasuncfdo
@@ -2718,7 +2731,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/sumudusujith">
 				<img src="https://avatars.githubusercontent.com/u/60879034?s=72&u=2cc7e9f292c1f46490767fa55776d7af8c9a73d0&v=4" width="24" alt="Avatar of sumudusujith"> sumudusujith
@@ -2729,19 +2742,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/sumudu_sujith">sumudu_sujith</a></td>
 		<td>kandy</td>
 		<td>44</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a href="https://github.com/DamianRavinduPeiris">
-				<img src="https://avatars.githubusercontent.com/u/115478137?s=72&u=12d3b26cbe195754bdd3baed8eb8077c3b3f4821&v=4" width="24" alt="Avatar of DamianRavinduPeiris"> DamianRavinduPeiris
-			</a><br/>
-			Damian Peiris.
-		</td>
-		<td>Ijse | Wiley </td>
-		<td>No Twitter Username</td>
-		<td>Colombo,Sri Lanka.</td>
-		<td>43</td>
 	</tr>
 	<tr>
 		<td>204</td>
