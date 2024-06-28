@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/6/28 3:27 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/6/28 4:27 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>82088</td>
+		<td>82104</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -219,7 +219,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2610</td>
+		<td>2611</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -245,7 +245,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Wso2, Ballerina-lang </td>
 		<td><a href="https://twitter.com/indrachapa93">indrachapa93</a></td>
 		<td>Colombo,Sri Lanka</td>
-		<td>2267</td>
+		<td>2273</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -895,7 +895,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Icet - Institute Of<br/>Computer<br/>Engineering<br/>And<br/>Technology<br/></td>
 		<td><a href="https://twitter.com/sharadamarasin2">sharadamarasin2</a></td>
 		<td>Colombo </td>
-		<td>637</td>
+		<td>636</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -1402,7 +1402,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galle</td>
-		<td>432</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1597,7 +1597,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Galle</td>
-		<td>382</td>
+		<td>383</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -4098,6 +4098,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>308</td>
 		<td>
+			<a href="https://github.com/kapilansrikaran">
+				<img src="https://avatars.githubusercontent.com/u/29796237?s=72&u=9ab3cda3b88072ad2eb759c6527e4408dc11771f&v=4" width="24" alt="Avatar of kapilansrikaran"> kapilansrikaran
+			</a><br/>
+			Kapilan Srikaran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jaffna, Sri Lanka.</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
 			<a href="https://github.com/CDinuwan">
 				<img src="https://avatars.githubusercontent.com/u/40265280?s=72&u=e8651b391188f819675ead1562bd210993742487&v=4" width="24" alt="Avatar of CDinuwan"> CDinuwan
 			</a><br/>
@@ -4109,7 +4122,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/lahiruroot">
 				<img src="https://avatars.githubusercontent.com/u/45584797?s=72&u=3177f54e6cbe5e87d686d217b611a240452fe955&v=4" width="24" alt="Avatar of lahiruroot"> lahiruroot
@@ -4119,19 +4132,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@algoarts </td>
 		<td><a href="https://twitter.com/LahiruUdawatht2">LahiruUdawatht2</a></td>
 		<td>Colombo - Sri Lanka </td>
-		<td>113</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/kapilansrikaran">
-				<img src="https://avatars.githubusercontent.com/u/29796237?s=72&u=9ab3cda3b88072ad2eb759c6527e4408dc11771f&v=4" width="24" alt="Avatar of kapilansrikaran"> kapilansrikaran
-			</a><br/>
-			Kapilan Srikaran
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jaffna, Sri Lanka.</td>
 		<td>113</td>
 	</tr>
 	<tr>
