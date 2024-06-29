@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/29 1:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/29 2:23 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -141,7 +141,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@wso2 </td>
 		<td><a href="https://twitter.com/tikirimaarie">tikirimaarie</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>505</td>
+		<td>506</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -349,7 +349,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Skyplan Services Fzco </td>
 		<td><a href="https://twitter.com/SDeshanS">SDeshanS</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>173</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -796,19 +796,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/JehanKandy">
-				<img src="https://avatars.githubusercontent.com/u/89431184?s=72&u=ad5a0ea74274b0a24e29251bd0bb16f6f2154ef6&v=4" width="24" alt="Avatar of JehanKandy"> JehanKandy
-			</a><br/>
-			JehanKandy 
-		</td>
-		<td>@jkcss - Css Framework<br/></td>
-		<td><a href="https://twitter.com/jehankandy">jehankandy</a></td>
-		<td>Kandy, Sri Lanka </td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>
 			<a href="https://github.com/DulangaDasanayake">
 				<img src="https://avatars.githubusercontent.com/u/103773062?s=72&u=785f6394911eb1795deff71d09adfec4ddc85a10&v=4" width="24" alt="Avatar of DulangaDasanayake"> DulangaDasanayake
 			</a><br/>
@@ -817,6 +804,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Codeslk </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
+			<a href="https://github.com/JehanKandy">
+				<img src="https://avatars.githubusercontent.com/u/89431184?s=72&u=ad5a0ea74274b0a24e29251bd0bb16f6f2154ef6&v=4" width="24" alt="Avatar of JehanKandy"> JehanKandy
+			</a><br/>
+			JehanKandy 
+		</td>
+		<td>@jkcss - Css Framework<br/></td>
+		<td><a href="https://twitter.com/jehankandy">jehankandy</a></td>
+		<td>Kandy, Sri Lanka </td>
 		<td>91</td>
 	</tr>
 	<tr>
@@ -900,19 +900,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/thriplebee">
-				<img src="https://avatars.githubusercontent.com/u/65459936?s=72&u=9bf922f0bbe08775a58817ff5b21cc86f642e6ba&v=4" width="24" alt="Avatar of thriplebee"> thriplebee
-			</a><br/>
-			ThripleBee
-		</td>
-		<td>Thriplebee </td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
 			<a href="https://github.com/GH0STH4CKER">
 				<img src="https://avatars.githubusercontent.com/u/62290930?s=72&u=3ef0fd48dfa8a4231c8d004e9a3b8beff9e28bae&v=4" width="24" alt="Avatar of GH0STH4CKER"> GH0STH4CKER
 			</a><br/>
@@ -921,6 +908,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Greenlight </td>
 		<td>No Twitter Username</td>
 		<td>Ambalangoda / Galle </td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/thriplebee">
+				<img src="https://avatars.githubusercontent.com/u/65459936?s=72&u=9bf922f0bbe08775a58817ff5b21cc86f642e6ba&v=4" width="24" alt="Avatar of thriplebee"> thriplebee
+			</a><br/>
+			ThripleBee
+		</td>
+		<td>Thriplebee </td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
 		<td>84</td>
 	</tr>
 	<tr>
