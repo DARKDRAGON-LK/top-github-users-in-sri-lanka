@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/6/29 9:25 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/6/29 10:24 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -2707,19 +2707,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>201</td>
 		<td>
-			<a href="https://github.com/rodrigoaguerra">
-				<img src="https://avatars.githubusercontent.com/u/15255772?s=72&u=9c2e2d09d71146ad6d9d17309c4766cd5fd3e331&v=4" width="24" alt="Avatar of rodrigoaguerra"> rodrigoaguerra
-			</a><br/>
-			Rodrigo Alves Guerra
-		</td>
-		<td>Orbital Soluções </td>
-		<td>No Twitter Username</td>
-		<td>Colombo - PR / Brazil</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
 			<a href="https://github.com/v15a1">
 				<img src="https://avatars.githubusercontent.com/u/46480892?s=72&u=386651c60891e0f74331433ada07931a4be6c906&v=4" width="24" alt="Avatar of v15a1"> v15a1
 			</a><br/>
@@ -2731,7 +2718,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/DininduGunathilaka">
 				<img src="https://avatars.githubusercontent.com/u/73194227?s=72&u=b57a544bf280ddd6699b7516fd62c6ca3241d644&v=4" width="24" alt="Avatar of DininduGunathilaka"> DininduGunathilaka
@@ -2744,7 +2731,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/sumudusujith">
 				<img src="https://avatars.githubusercontent.com/u/60879034?s=72&u=2cc7e9f292c1f46490767fa55776d7af8c9a73d0&v=4" width="24" alt="Avatar of sumudusujith"> sumudusujith
@@ -2757,7 +2744,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/kasuncfdo">
 				<img src="https://avatars.githubusercontent.com/u/84648368?s=72&u=920ed630b0e7e9a546437e77dbf8d85a9ff551c7&v=4" width="24" alt="Avatar of kasuncfdo"> kasuncfdo
@@ -2768,6 +2755,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/kasuncfdo">kasuncfdo</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>44</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/rodrigoaguerra">
+				<img src="https://avatars.githubusercontent.com/u/15255772?s=72&u=9c2e2d09d71146ad6d9d17309c4766cd5fd3e331&v=4" width="24" alt="Avatar of rodrigoaguerra"> rodrigoaguerra
+			</a><br/>
+			Rodrigo Alves Guerra
+		</td>
+		<td>Orbital Soluções </td>
+		<td>No Twitter Username</td>
+		<td>Colombo - PR / Brazil</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>206</td>
