@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/7/5 3:26 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/7/5 4:29 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -245,7 +245,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Alphexa Labs </td>
 		<td><a href="https://twitter.com/Mindula2000">Mindula2000</a></td>
 		<td>Matara, Sri Lanka</td>
-		<td>241</td>
+		<td>242</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -349,7 +349,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/inukaasith7">inukaasith7</a></td>
 		<td>Matara, Sri Lanka</td>
-		<td>170</td>
+		<td>171</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -4345,19 +4345,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>327</td>
 		<td>
-			<a href="https://github.com/LakshithaSankalpa">
-				<img src="https://avatars.githubusercontent.com/u/88105335?s=72&u=20427a3a88cae464d716673efd2c4c45faf54df2&v=4" width="24" alt="Avatar of LakshithaSankalpa"> LakshithaSankalpa
-			</a><br/>
-			Lakshitha Sankalpa
-		</td>
-		<td>@enrich-arcane-pvt-l  </td>
-		<td><a href="https://twitter.com/sankalpa1997">sankalpa1997</a></td>
-		<td>408/ 1/1, 1st Floor Colombo Road, Negombo</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
 			<a href="https://github.com/LakshanKarunathilake">
 				<img src="https://avatars.githubusercontent.com/u/33603053?s=72&u=e6178477d4ce528f26f26ddb9c3c6d82b9066932&v=4" width="24" alt="Avatar of LakshanKarunathilake"> LakshanKarunathilake
 			</a><br/>
@@ -4366,6 +4353,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Lakshandev </td>
 		<td>No Twitter Username</td>
 		<td>Colombo</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
+			<a href="https://github.com/LakshithaSankalpa">
+				<img src="https://avatars.githubusercontent.com/u/88105335?s=72&u=20427a3a88cae464d716673efd2c4c45faf54df2&v=4" width="24" alt="Avatar of LakshithaSankalpa"> LakshithaSankalpa
+			</a><br/>
+			Lakshitha Sankalpa
+		</td>
+		<td>@enrich-arcane-pvt-l  </td>
+		<td><a href="https://twitter.com/sankalpa1997">sankalpa1997</a></td>
+		<td>408/ 1/1, 1st Floor Colombo Road, Negombo</td>
 		<td>32</td>
 	</tr>
 	<tr>
