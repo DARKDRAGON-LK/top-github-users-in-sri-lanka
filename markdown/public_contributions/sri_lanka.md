@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/7/6 1:22 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/7/6 2:38 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>84080</td>
+		<td>84101</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -206,7 +206,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2878</td>
+		<td>2879</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -557,7 +557,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
-		<td>911</td>
+		<td>913</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -965,6 +965,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>67</td>
 		<td>
+			<a href="https://github.com/CydexCode">
+				<img src="https://avatars.githubusercontent.com/u/112784979?s=72&u=06def25a212fac8648d0967514d8dc2eaf56877a&v=4" width="24" alt="Avatar of CydexCode"> CydexCode
+			</a><br/>
+			Sachinthana Buddhika
+		</td>
+		<td>Cydexcode </td>
+		<td>No Twitter Username</td>
+		<td>Colombo</td>
+		<td>569</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/ravindudinushan">
 				<img src="https://avatars.githubusercontent.com/u/125720842?s=72&u=65834a5a3243de81d4b07f6f897eb065e0cac95f&v=4" width="24" alt="Avatar of ravindudinushan"> ravindudinushan
 			</a><br/>
@@ -974,19 +987,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/Ravindu9966">Ravindu9966</a></td>
 		<td>Galle</td>
 		<td>567</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/CydexCode">
-				<img src="https://avatars.githubusercontent.com/u/112784979?s=72&u=06def25a212fac8648d0967514d8dc2eaf56877a&v=4" width="24" alt="Avatar of CydexCode"> CydexCode
-			</a><br/>
-			Sachinthana Buddhika
-		</td>
-		<td>Cydexcode </td>
-		<td>No Twitter Username</td>
-		<td>Colombo</td>
-		<td>564</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -3040,7 +3040,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
-		<td>179</td>
+		<td>181</td>
 	</tr>
 	<tr>
 		<td>227</td>
