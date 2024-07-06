@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/7/6 5:21 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/7/6 6:28 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -146,6 +146,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/manulthanura">
+				<img src="https://avatars.githubusercontent.com/u/91767649?s=72&u=fa5f62eca698eb60ad0cd1b560437a08c321a351&v=4" width="24" alt="Avatar of manulthanura"> manulthanura
+			</a><br/>
+			Manul Thanura
+		</td>
+		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
+		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
+		<td>Colombo, Sri Lanka</td>
+		<td>443</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/mjzone">
 				<img src="https://avatars.githubusercontent.com/u/2338919?s=72&u=092b53b361fdf892de6a3e6389a0a388d41a39ff&v=4" width="24" alt="Avatar of mjzone"> mjzone
 			</a><br/>
@@ -155,19 +168,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/mjmrz">mjmrz</a></td>
 		<td>Colombo</td>
 		<td>443</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/manulthanura">
-				<img src="https://avatars.githubusercontent.com/u/91767649?s=72&u=fa5f62eca698eb60ad0cd1b560437a08c321a351&v=4" width="24" alt="Avatar of manulthanura"> manulthanura
-			</a><br/>
-			Manul Thanura
-		</td>
-		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
-		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>440</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@sef-global @acf-sack @greatstudioslk @yoshitharathnayake2<br/>@ie-community-develo<br/>@care-x<br/>@dine-ease<br/></td>
 		<td><a href="https://twitter.com/Yoshitha_R">Yoshitha_R</a></td>
 		<td>Kandy, Sri Lanka</td>
-		<td>378</td>
+		<td>377</td>
 	</tr>
 	<tr>
 		<td>7</td>
