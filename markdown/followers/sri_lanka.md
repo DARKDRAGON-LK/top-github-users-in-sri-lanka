@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/7/7 3:25 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/7/7 4:27 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -154,7 +154,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
 		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>474</td>
+		<td>475</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -2447,6 +2447,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>181</td>
 		<td>
+			<a href="https://github.com/keshan">
+				<img src="https://avatars.githubusercontent.com/u/94397?s=72&u=bab3d89be3b792b75f8e7c1076428ae56a396260&v=4" width="24" alt="Avatar of keshan"> keshan
+			</a><br/>
+			Keshan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/crazykesh">crazykesh</a></td>
+		<td>Colombo</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>182</td>
+		<td>
 			<a href="https://github.com/Kaveesha2000">
 				<img src="https://avatars.githubusercontent.com/u/89467866?s=72&u=4bd64e541a322646640a7ddf8d72ca40c51b142c&v=4" width="24" alt="Avatar of Kaveesha2000"> Kaveesha2000
 			</a><br/>
@@ -2458,7 +2471,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/V1SHW4">
 				<img src="https://avatars.githubusercontent.com/u/79046188?s=72&u=924d6fdabdf56c78ba46eff09e3e7df424460bc0&v=4" width="24" alt="Avatar of V1SHW4"> V1SHW4
@@ -2471,7 +2484,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/saiyaff">
 				<img src="https://avatars.githubusercontent.com/u/17147255?s=72&u=88a3d7b0bc026d847991c6d7f0efdaa0572ad76b&v=4" width="24" alt="Avatar of saiyaff"> saiyaff
@@ -2480,19 +2493,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/saiyaff">saiyaff</a></td>
-		<td>Colombo</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
-			<a href="https://github.com/keshan">
-				<img src="https://avatars.githubusercontent.com/u/94397?s=72&u=bab3d89be3b792b75f8e7c1076428ae56a396260&v=4" width="24" alt="Avatar of keshan"> keshan
-			</a><br/>
-			Keshan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/crazykesh">crazykesh</a></td>
 		<td>Colombo</td>
 		<td>46</td>
 	</tr>
