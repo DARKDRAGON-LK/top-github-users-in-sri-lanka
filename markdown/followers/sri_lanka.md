@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/7/7 10:23 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/7/7 11:23 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -154,7 +154,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
 		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>467</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -341,19 +341,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/shalaka-deshan0110">
-				<img src="https://avatars.githubusercontent.com/u/60376231?s=72&u=b1682f9ac6dc453a5d3b7dded8bc1f47d2dd8a92&v=4" width="24" alt="Avatar of shalaka-deshan0110"> shalaka-deshan0110
-			</a><br/>
-			Shalaka Deshan Silva Dunuhinga
-		</td>
-		<td>Skyplan Services Fzco </td>
-		<td><a href="https://twitter.com/SDeshanS">SDeshanS</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>172</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/InukaAsith">
 				<img src="https://avatars.githubusercontent.com/u/70461117?s=72&u=cda187fd3f63478eb8a8fc7042808e84b929123d&v=4" width="24" alt="Avatar of InukaAsith"> InukaAsith
 			</a><br/>
@@ -362,6 +349,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/inukaasith7">inukaasith7</a></td>
 		<td>Matara, Sri Lanka</td>
+		<td>171</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/shalaka-deshan0110">
+				<img src="https://avatars.githubusercontent.com/u/60376231?s=72&u=b1682f9ac6dc453a5d3b7dded8bc1f47d2dd8a92&v=4" width="24" alt="Avatar of shalaka-deshan0110"> shalaka-deshan0110
+			</a><br/>
+			Shalaka Deshan Silva Dunuhinga
+		</td>
+		<td>Skyplan Services Fzco </td>
+		<td><a href="https://twitter.com/SDeshanS">SDeshanS</a></td>
+		<td>Colombo, Sri Lanka</td>
 		<td>171</td>
 	</tr>
 	<tr>
@@ -588,19 +588,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/isala404">
-				<img src="https://avatars.githubusercontent.com/u/29277992?s=72&u=3f6ad1879a201bf7813003f8afde177c661127b0&v=4" width="24" alt="Avatar of isala404"> isala404
-			</a><br/>
-			Isala Piyarisi
-		</td>
-		<td>@wso2 </td>
-		<td><a href="https://twitter.com/isala404">isala404</a></td>
-		<td>Galle, Sri Lanka</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/sharada-marasinha">
 				<img src="https://avatars.githubusercontent.com/u/86095574?s=72&u=0547bc4127c0e424fb5a7e3f7eed060ceb843a7a&v=4" width="24" alt="Avatar of sharada-marasinha"> sharada-marasinha
 			</a><br/>
@@ -609,6 +596,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Icet - Institute Of<br/>Computer<br/>Engineering<br/>And<br/>Technology<br/></td>
 		<td><a href="https://twitter.com/sharadamarasin2">sharadamarasin2</a></td>
 		<td>Colombo </td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/isala404">
+				<img src="https://avatars.githubusercontent.com/u/29277992?s=72&u=3f6ad1879a201bf7813003f8afde177c661127b0&v=4" width="24" alt="Avatar of isala404"> isala404
+			</a><br/>
+			Isala Piyarisi
+		</td>
+		<td>@wso2 </td>
+		<td><a href="https://twitter.com/isala404">isala404</a></td>
+		<td>Galle, Sri Lanka</td>
 		<td>110</td>
 	</tr>
 	<tr>
@@ -1563,6 +1563,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>113</td>
 		<td>
+			<a href="https://github.com/shakee93">
+				<img src="https://avatars.githubusercontent.com/u/14835725?s=72&v=4" width="24" alt="Avatar of shakee93"> shakee93
+			</a><br/>
+			Shakeeb Sadikeen
+		</td>
+		<td>Freshpixl Creative Agency </td>
+		<td><a href="https://twitter.com/shakee93">shakee93</a></td>
+		<td>Colombo, Sri Lanka</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
 			<a href="https://github.com/raminduw200">
 				<img src="https://avatars.githubusercontent.com/u/57106078?s=72&u=1706343b3c1afb1f3ee401064f1dbd3e1eec21e7&v=4" width="24" alt="Avatar of raminduw200"> raminduw200
 			</a><br/>
@@ -1574,7 +1587,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/BimsaraFernando">
 				<img src="https://avatars.githubusercontent.com/u/40093425?s=72&u=887e59505abfe394e2dcb013377ad148127712cd&v=4" width="24" alt="Avatar of BimsaraFernando"> BimsaraFernando
@@ -1587,7 +1600,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/craftznora">
 				<img src="https://avatars.githubusercontent.com/u/89331370?s=72&u=7807db2b5654a3f22e751014e019bea0aa3d71d3&v=4" width="24" alt="Avatar of craftznora"> craftznora
@@ -1598,19 +1611,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Sri Lanka, Colombo </td>
 		<td>61</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/shakee93">
-				<img src="https://avatars.githubusercontent.com/u/14835725?s=72&v=4" width="24" alt="Avatar of shakee93"> shakee93
-			</a><br/>
-			Shakeeb Sadikeen
-		</td>
-		<td>Freshpixl Creative Agency </td>
-		<td><a href="https://twitter.com/shakee93">shakee93</a></td>
-		<td>Colombo, Sri Lanka</td>
-		<td>60</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -6958,6 +6958,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>528</td>
 		<td>
+			<a href="https://github.com/SharadaShehan">
+				<img src="https://avatars.githubusercontent.com/u/107914899?s=72&u=bc453e7fe8de877b8182218ff521defe45b7f525&v=4" width="24" alt="Avatar of SharadaShehan"> SharadaShehan
+			</a><br/>
+			Sharada Shehan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gampaha, Sri Lanka</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>529</td>
+		<td>
 			<a href="https://github.com/Dhananjaya1321">
 				<img src="https://avatars.githubusercontent.com/u/114791318?s=72&u=0dec4f156e792e9f3d352712da14f92bd521a7a2&v=4" width="24" alt="Avatar of Dhananjaya1321"> Dhananjaya1321
 			</a><br/>
@@ -6969,7 +6982,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/kavindumal">
 				<img src="https://avatars.githubusercontent.com/u/89773391?s=72&u=c601386438bc6383b638c70cc6c67b27617b2dd4&v=4" width="24" alt="Avatar of kavindumal"> kavindumal
@@ -6982,7 +6995,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/chamalanuradha">
 				<img src="https://avatars.githubusercontent.com/u/102795904?s=72&u=2b27a1797db98501d1a4fd2366dc31647b451386&v=4" width="24" alt="Avatar of chamalanuradha"> chamalanuradha
@@ -6995,7 +7008,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/cdathuraliya">
 				<img src="https://avatars.githubusercontent.com/u/9251719?s=72&u=51cbfc9998c0f1202b80596dba4a213b01b25838&v=4" width="24" alt="Avatar of cdathuraliya"> cdathuraliya
@@ -7008,7 +7021,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/nethmi-liyanage">
 				<img src="https://avatars.githubusercontent.com/u/110925670?s=72&u=152fcb3ad136f98f524962f7fd3989686ddd34f2&v=4" width="24" alt="Avatar of nethmi-liyanage"> nethmi-liyanage
@@ -7021,7 +7034,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/Sandakan">
 				<img src="https://avatars.githubusercontent.com/u/45460443?s=72&u=82bd8d5d915a83fa28e9940c86d3a0f9aa93891f&v=4" width="24" alt="Avatar of Sandakan"> Sandakan
@@ -7034,7 +7047,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/MaleeshaKumarage">
 				<img src="https://avatars.githubusercontent.com/u/26670053?s=72&u=e5caa8df6848a9a93892c3a0c1187c23e3f71a4b&v=4" width="24" alt="Avatar of MaleeshaKumarage"> MaleeshaKumarage
@@ -7047,7 +7060,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/BupendraDhyan">
 				<img src="https://avatars.githubusercontent.com/u/97863220?s=72&u=bd00e5d25a32151fef550846874734e023967347&v=4" width="24" alt="Avatar of BupendraDhyan"> BupendraDhyan
@@ -7060,7 +7073,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/Chamodya23">
 				<img src="https://avatars.githubusercontent.com/u/87930614?s=72&u=30d29f79b4f8fbeae60c5e48df19c224c317645b&v=4" width="24" alt="Avatar of Chamodya23"> Chamodya23
@@ -7073,7 +7086,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/anjana6">
 				<img src="https://avatars.githubusercontent.com/u/39025509?s=72&u=fbe1ccb99afdc07eb1daa0d930fbaad91bf6e685&v=4" width="24" alt="Avatar of anjana6"> anjana6
@@ -7086,7 +7099,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/Pathum-lakshan">
 				<img src="https://avatars.githubusercontent.com/u/54094629?s=72&u=aed84cf832aa580c15f8333c312eebcb415ad924&v=4" width="24" alt="Avatar of Pathum-lakshan"> Pathum-lakshan
@@ -7099,7 +7112,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/BrunoPogianMallta">
 				<img src="https://avatars.githubusercontent.com/u/74029775?s=72&u=f95912c8e725b39226d27e8ff4db0dde2d5e8a66&v=4" width="24" alt="Avatar of BrunoPogianMallta"> BrunoPogianMallta
@@ -7112,7 +7125,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/tiki985860">
 				<img src="https://avatars.githubusercontent.com/u/95839292?s=72&u=1d3ba23a5e28f3c6166a1784cc04f9052c3511cb&v=4" width="24" alt="Avatar of tiki985860"> tiki985860
@@ -7125,7 +7138,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/lankaapura">
 				<img src="https://avatars.githubusercontent.com/u/403912?s=72&u=e47977fbb73098733ad4ef1998a029e09575b842&v=4" width="24" alt="Avatar of lankaapura"> lankaapura
@@ -7138,7 +7151,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/CandyPanda-LS">
 				<img src="https://avatars.githubusercontent.com/u/62637475?s=72&u=5ce6e1f9daf47e71e631d37e6ddb1ac221ac3569&v=4" width="24" alt="Avatar of CandyPanda-LS"> CandyPanda-LS
@@ -7151,7 +7164,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/SavindiRashmika">
 				<img src="https://avatars.githubusercontent.com/u/125721035?s=72&u=04f09fac41b4328df3a11884be9222a1e66c0b02&v=4" width="24" alt="Avatar of SavindiRashmika"> SavindiRashmika
@@ -7164,7 +7177,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/ISHHMadushanka">
 				<img src="https://avatars.githubusercontent.com/u/47331470?s=72&u=13ba61a2ed6f0f93c6beacc644bab5d02c890026&v=4" width="24" alt="Avatar of ISHHMadushanka"> ISHHMadushanka
@@ -7177,7 +7190,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/udith97">
 				<img src="https://avatars.githubusercontent.com/u/42823912?s=72&u=8d2bbca73353b027edb6c46ff446b74813af43b4&v=4" width="24" alt="Avatar of udith97"> udith97
@@ -7190,7 +7203,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/WKIShavinda">
 				<img src="https://avatars.githubusercontent.com/u/87648105?s=72&u=1639a42513b932e19417779fa2117d553a3588f4&v=4" width="24" alt="Avatar of WKIShavinda"> WKIShavinda
@@ -7203,7 +7216,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/manojitht">
 				<img src="https://avatars.githubusercontent.com/u/57973987?s=72&u=aa9fe909134598dd7d80b7d38820adcef59c1015&v=4" width="24" alt="Avatar of manojitht"> manojitht
@@ -7216,7 +7229,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/websterKAT">
 				<img src="https://avatars.githubusercontent.com/u/15664001?s=72&u=aea81cfa44f833134adc9efebe83635c8c8b17af&v=4" width="24" alt="Avatar of websterKAT"> websterKAT
@@ -7229,7 +7242,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Navin47">
 				<img src="https://avatars.githubusercontent.com/u/80040638?s=72&u=fec679b1d788ece23debde231db9b23dc5c7bcfc&v=4" width="24" alt="Avatar of Navin47"> Navin47
@@ -7242,7 +7255,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/94ju">
 				<img src="https://avatars.githubusercontent.com/u/28913628?s=72&u=272b61c17fdb7b8431dc1d05c895cc3ce58fa3e0&v=4" width="24" alt="Avatar of 94ju"> 94ju
@@ -7255,7 +7268,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/RavinduOnline">
 				<img src="https://avatars.githubusercontent.com/u/73160285?s=72&u=32b190f771ac62a3e68c2656ed449075612df1ca&v=4" width="24" alt="Avatar of RavinduOnline"> RavinduOnline
@@ -7268,7 +7281,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/Nsadaa">
 				<img src="https://avatars.githubusercontent.com/u/76882341?s=72&u=2bab9cc170099e7f57e8ead08926a050698f1148&v=4" width="24" alt="Avatar of Nsadaa"> Nsadaa
@@ -7281,7 +7294,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/YuvinNP">
 				<img src="https://avatars.githubusercontent.com/u/44858153?s=72&u=de537d61d842893b72a59a1c8335909447806134&v=4" width="24" alt="Avatar of YuvinNP"> YuvinNP
@@ -7294,7 +7307,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/Senula88">
 				<img src="https://avatars.githubusercontent.com/u/113713703?s=72&u=d1a3499bc1891bcd7ab10b6fcf4515b651851df6&v=4" width="24" alt="Avatar of Senula88"> Senula88
@@ -7307,7 +7320,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/Curstantine">
 				<img src="https://avatars.githubusercontent.com/u/69104500?s=72&u=b640bf71f2bb40fb256993d30a3a8bbc87a1f178&v=4" width="24" alt="Avatar of Curstantine"> Curstantine
@@ -7317,19 +7330,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/SharadaShehan">
-				<img src="https://avatars.githubusercontent.com/u/107914899?s=72&u=bc453e7fe8de877b8182218ff521defe45b7f525&v=4" width="24" alt="Avatar of SharadaShehan"> SharadaShehan
-			</a><br/>
-			Sharada Shehan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gampaha, Sri Lanka</td>
 		<td>22</td>
 	</tr>
 	<tr>
