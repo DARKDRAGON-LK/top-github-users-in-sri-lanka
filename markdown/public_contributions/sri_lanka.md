@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `public contributions` by users in Sri Lanka on `2024/7/8 10:26 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `public contributions` by users in Sri Lanka on `2024/7/8 11:23 AM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -115,7 +115,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nuuuwan">nuuuwan</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>84931</td>
+		<td>84946</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@jkcss-a-css-framewo </td>
 		<td>No Twitter Username</td>
 		<td>Kandy, Sri Lanka</td>
-		<td>17188</td>
+		<td>17189</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Carecode </td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>2961</td>
+		<td>2962</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -661,7 +661,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombo, Sri Lanka</td>
-		<td>768</td>
+		<td>769</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1108,6 +1108,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>78</td>
 		<td>
+			<a href="https://github.com/nim3xh">
+				<img src="https://avatars.githubusercontent.com/u/105283769?s=72&u=0bd830353671e36a0de7864b1b03eb3b850d60e4&v=4" width="24" alt="Avatar of nim3xh"> nim3xh
+			</a><br/>
+			Nimesh Jayaweera
+		</td>
+		<td>Faculty Of Technology, University<br/>Of<br/>Ruhuna<br/></td>
+		<td>No Twitter Username</td>
+		<td>kandy</td>
+		<td>517</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
 			<a href="https://github.com/anupama-pathirage">
 				<img src="https://avatars.githubusercontent.com/u/16300038?s=72&u=8dd2ec26623c377e1b1b9169dd6d7b5c25f3e7cd&v=4" width="24" alt="Avatar of anupama-pathirage"> anupama-pathirage
 			</a><br/>
@@ -1117,19 +1130,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/anupama_pathira">anupama_pathira</a></td>
 		<td>Colombo, Sri Lanka</td>
 		<td>514</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/nim3xh">
-				<img src="https://avatars.githubusercontent.com/u/105283769?s=72&u=0bd830353671e36a0de7864b1b03eb3b850d60e4&v=4" width="24" alt="Avatar of nim3xh"> nim3xh
-			</a><br/>
-			Nimesh Jayaweera
-		</td>
-		<td>Faculty Of Technology, University<br/>Of<br/>Ruhuna<br/></td>
-		<td>No Twitter Username</td>
-		<td>kandy</td>
-		<td>511</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1168,7 +1168,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>@wso2 </td>
 		<td><a href="https://twitter.com/CVinushanth">CVinushanth</a></td>
 		<td>Colombo,Srilanka</td>
-		<td>497</td>
+		<td>498</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1181,7 +1181,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Faculty Of Engineering, University<br/>Of<br/>Ruhuna<br/></td>
 		<td>No Twitter Username</td>
 		<td>Galle, Sri Lanka</td>
-		<td>496</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>84</td>
