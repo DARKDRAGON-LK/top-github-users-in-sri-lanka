@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png" alt="Sri Lanka">
 </a>
 
-The `number of followers` of users in Sri Lanka on `2024/7/9 7:22 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
+The `number of followers` of users in Sri Lanka on `2024/7/9 8:26 PM UTC`. This list contains users from `Sri Lanka` and cities `Colombo` `Kandy` `Gampaha` `Galle` `Jaffna` `Matara`.
 
 There are `1 countries` and `6 cities` can be found [here](https://github.com/DARKDRAGON-LK/top-github-users-in-sri-lanka).
 
@@ -154,7 +154,7 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td>Sltc Research University &<br/>@forgear<br/><br/></td>
 		<td><a href="https://twitter.com/manulthanura">manulthanura</a></td>
 		<td>Colombo, Sri Lanka</td>
-		<td>492</td>
+		<td>493</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -289,19 +289,6 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 	<tr>
 		<td>15</td>
 		<td>
-			<a href="https://github.com/sacheex">
-				<img src="https://avatars.githubusercontent.com/u/110117965?s=72&u=1decb418419c1f2357229c9c9c239a937c4a8e28&v=4" width="24" alt="Avatar of sacheex"> sacheex
-			</a><br/>
-			Sachith
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kandy, Sri Lanka</td>
-		<td>178</td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>
 			<a href="https://github.com/hiranthaR">
 				<img src="https://avatars.githubusercontent.com/u/27926576?s=72&u=3d7ad88ee291fbc1ede8b0041c93d8a9ac325167&v=4" width="24" alt="Avatar of hiranthaR"> hiranthaR
 			</a><br/>
@@ -311,6 +298,19 @@ There are `993 users`  in Sri Lanka. You need at least `14 followers` to be on t
 		<td><a href="https://twitter.com/_hirantha">_hirantha</a></td>
 		<td>Colombo,Sri lanka</td>
 		<td>178</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/sacheex">
+				<img src="https://avatars.githubusercontent.com/u/110117965?s=72&u=1decb418419c1f2357229c9c9c239a937c4a8e28&v=4" width="24" alt="Avatar of sacheex"> sacheex
+			</a><br/>
+			Sachith
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kandy, Sri Lanka</td>
+		<td>177</td>
 	</tr>
 	<tr>
 		<td>17</td>
